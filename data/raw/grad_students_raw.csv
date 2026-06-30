@@ -1,0 +1,551 @@
+student_id,last_name,first_name,academic_term,term_year,program,year_in_program,degree_type,pell_eligible,grant_amt,fellowship,TA_status,GSR_status,gpa,units_enrolled,stipend_amt,thesis_status,time_to_degree,employment_outcome,employer_type,salary_offer,job_title,industry,months_to_employment,gender,ethnicity,first_gen,international
+1001,Fowler,Angel,Fall,2020,PhD Chemistry,1,PhD,False,,No,TRUE,n,2.44,9,2123.0,Proposal,,,,,,,,M,White,No,YES
+1001,Fowler,Angel,Spring,2021,PhD Chemistry,1,PhD,No,,No,YES,N,2.48,6,1865.0,Proposal,,,,,,,,M,White,False,True
+1001,Fowler,Angel,Fall,2021,PhD Chemistry,2,PhD,FALSE,,1,FALSE,no,2.39,6,21364.0,Proposal,,,,,,,,M,White,n,Yes
+1001,Fowler,Angel,Spring,2022,PhD Chemistry,2,PhD,No,,No,n,YES,2.51,9,2696.0,Approved,,,,,,,,M,White,NO,y
+1001,Fowler,Angel,Fall,2022,PhD Chemistry,3,PhD,0,,No,y,N,2.53,12,2172.0,Approved,,,,,,,,M,White,False,Y
+1001,Fowler,Angel,Spring,2023,PhD Chemistry,3,PhD,NO,,No,1,FALSE,2.5,9,1876.0,Approved,,,,,,,,M,White,NO,1
+1001,Fowler,Angel,Fall,2023,PhD Chemistry,4,PhD,0,,TRUE,NO,no,2.45,12,27285.0,Approved,,,,,,,,M,White,0,Yes
+1001,Fowler,Angel,Spring,2024,PhD Chemistry,4,PhD,False,,,NO,NO,2.54,12,,Writing,,,,,,,,M,White,False,y
+1002,Hill,Jeffrey,Fall,2021,PhD Sociology,1,PhD,False,,NO,Y,n,3.95,9,2002.0,Proposal,,,,,,,,M,Black,n,FALSE
+1002,Hill,Jeffrey,Spring,2022,PhD Sociology,1,PhD,no,,True,n,No,3.81,6,23151.0,Proposal,,,,,,,,M,Black,no,FALSE
+1002,Hill,Jeffrey,Fall,2022,PhD Sociology,2,PhD,NO,,no,1,0,3.9,6,1850.0,Approved,,,,,,,,M,Black,FALSE,False
+1002,Hill,Jeffrey,Spring,2023,PhD Sociology,2,PhD,N,,Y,FALSE,FALSE,3.89,,,Approved,,,,,,,,M,Black,False,NO
+1002,Hill,Jeffrey,Fall,2023,PhD Sociology,3,PhD,0,,No,yes,No,3.78,9,1922.0,Writing,,,,,,,,M,Black,no,False
+1002,Hill,Jeffrey,Spring,2024,PhD Sociology,3,PhD,FALSE,,NO,FALSE,TRUE,3.71,6,2494.0,Writing,,,,,,,,M,Black,0,NO
+1003,Doyle,Erica,Fall,2021,PhD Chemistry,1,PhD,No,,No,YES,no,3.19,6,2083.0,Proposal,,,,,,,,NB,Multiracial,FALSE,n
+1003,Doyle,Erica,Spring,2022,PhD Chemistry,1,PhD,No,,No,0,,3.28,12,,Proposal,,,,,,,,NB,Multiracial,No,0
+1003,Doyle,Erica,Fall,2022,PhD Chemistry,2,PhD,No,,No,0,,3.22,9,,Proposal,,,,,,,,NB,Multiracial,No,0
+1003,Doyle,Erica,Spring,2023,PhD Chemistry,2,PhD,N,,No,no,No,3.3,6,,Approved,,,,,,,,NB,Multiracial,NO,No
+1003,Doyle,Erica,Fall,2023,PhD Chemistry,3,PhD,N,,No,1,n,3.24,9,2046.0,Approved,,,,,,,,NB,Multiracial,0,FALSE
+1003,Doyle,Erica,Spring,2024,PhD Chemistry,3,PhD,No,,No,No,N,3.24,9,,Approved,,,,,,,,NB,Multiracial,N,0
+1004,Mcclain,Christopher,Fall,2018,MS Business Analytics,1,MS,0,,No,no,NO,2.68,9,,n/a,,,,,,,,F,White,0,No
+1004,Mcclain,Christopher,Spring,2019,MS Business Analytics,1,MS,N,,No,0,FALSE,2.75,15,,n/a,,,,,,,,F,White,N,No
+1005,HENDERSON,Anthony,Fall,2019,PhD Education,1,PhD,,,No,No,y,3.07,9,2021.0,Proposal,,,,,,,,F,White,No,0
+1005,HENDERSON,Anthony,Spring,2020,PhD Education,1,PhD,FALSE,,NO,no,y,3.1,6,2530.0,Proposal,,,,,,,,F,White,No,FALSE
+1005,HENDERSON,Anthony,Fall,2020,PhD Education,2,PhD,,,No,NO,,3.02,9,,Approved,,,,,,,,F,White,NO,no
+1005,HENDERSON,Anthony,Spring,2021,PhD Education,2,PhD,0,,true,no,FALSE,3.15,9,34014.0,Approved,,,,,,,,F,White,0,FALSE
+1005,HENDERSON,Anthony,Fall,2021,PhD Education,3,PhD,0,,No,FALSE,yes,3.1,6,2495.0,Writing,,,,,,,,F,White,,no
+1005,HENDERSON,Anthony,Spring,2022,PhD Education,3,PhD,NO,,no,0,NO,3.02,9,,Writing,,,,,,,,F,White,No,n
+1006,Robinson,William,Fall,2021,PhD Sociology,1,PhD,FALSE,,No,n,0,3.34,12,,Proposal,,,,,,,,M,White,No,n
+1006,Robinson,William,Spring,2022,PhD Sociology,1,PhD,N,,NO,YES,n,3.19,9,2289.0,Proposal,,,,,,,,M,White,False,no
+1006,Robinson,William,Fall,2022,PhD Sociology,2,PhD,n,,,N,TRUE,3.26,9,2774.0,Approved,,,,,,,,M,White,False,No
+1006,Robinson,William,Spring,2023,PhD Sociology,2,PhD,FALSE,,No,no,0,3.22,12,,Approved,,,,,,,,M,White,FALSE,FALSE
+1006,Robinson,William,Fall,2023,PhD Sociology,3,PhD,False,,no,True,NO,3.16,6,2180.0,Approved,,,,,,,,M,White,N,N
+1006,Robinson,William,Spring,2024,PhD Sociology,3,PhD,,,No,n,No,3.19,,,Writing,,,,,,,,M,White,FALSE,0
+1007,JOHNSON,James,Fall,2020,PhD Economics,1,PhD,False,,YES,n,NO,3.78,6,32792.0,Proposal,,,,,,,,F,Asian,NO,n
+1007,JOHNSON,James,Spring,2021,PhD Economics,1,PhD,0,,No,False,TRUE,3.76,6,2694.0,Proposal,,,,,,,,F,Asian,False,N
+1007,JOHNSON,James,Fall,2021,PhD Economics,2,PhD,NO,,True,No,n,3.84,12,25265.0,APPROVED,,,,,,,,F,Asian,FALSE,n
+1007,JOHNSON,James,Spring,2022,PhD Economics,2,PhD,No,,No,1,NO,3.75,12,1938.0,Approved,,,,,,,,F,Asian,,no
+1007,JOHNSON,James,Fall,2022,PhD Economics,3,PhD,NO,,TRUE,False,No,3.79,6,20281.0,Approved,,,,,,,,F,Asian,no,False
+1007,JOHNSON,James,Spring,2023,PhD Economics,3,PhD,no,,NO,YES,False,3.77,9,1940.0,Writing,,,,,,,,F,Asian,no,0
+1007,JOHNSON,James,Fall,2023,PhD Economics,4,PhD,,,NO,1,n,3.79,12,2119.0,Writing,,,,,,,,F,Asian,NO,0
+1007,JOHNSON,James,SPRING,2024,PhD Economics,4,PhD,False,,No,NO,YES,3.78,6,2505.0,Writing,,,,,,,,F,Asian,False,False
+1008,Santos,Amy,Fall,2020,MS Business Analytics,1,MS,No,,Y,no,0,3.75,6,13398.0,N/A,,,,,,,,NB,Asian,no,no
+1008,Santos,Amy,Spring,2021,MS Business Analytics,1,MS,FALSE,,No,0,0,3.7,15,,N/A,,,,,,,,NB,Asian,no,no
+1008,Santos,Amy,Fall,2021,MS Business Analytics,2,MS,FALSE,,No,no,N,3.79,6,,N/A,,,,,,,,NB,Asian,No,False
+1008,Santos,Amy,Spring,2022,MS Business Analytics,2,MS,,,No,No,FALSE,3.76,9,,N/A,2.0,Employed,Industry,112000,Engineer,Tech,1.3,NB,Asian,no,True
+1009,ROBINSON,Bridget,Fall,2021,MS Statistics,1,MS,Yes,,No,0,no,3.49,9,,N/A,,,,,,,,F,Hispanic,FALSE,n
+1009,ROBINSON,Bridget,Spring,2022,MS Statistics,1,MS,True,4097.0,TRUE,False,0,3.39,12,23865.0,N/A,,,,,,,,F,Hispanic,n,FALSE
+1009,ROBINSON,Bridget,Fall,2022,MS Statistics,2,MS,True,4626.0,,FALSE,no,3.47,15,,N/A,1.2,Employed,Industry,114000,Data Scientist,Tech,4.6,F,Hispanic,no,n
+1010,Pacheco,Adam,Fall,2021,PhD Public Health,1,PhD,False,,no,no,yes,3.46,9,2635.0,Proposal,,,,,,,,F,White,no,n
+1010,Pacheco,Adam,Spring,2022,PhD Public Health,1,PhD,n,,No,False,no,3.5,12,,Approved,,,,,,,,F,White,N,n
+1010,Pacheco,Adam,Fall,2022,PhD Public Health,2,PhD,N,,NO,yes,False,3.47,9,2137.0,Approved,,,,,,,,F,White,No,n
+1010,Pacheco,Adam,Spring,2023,PhD Public Health,2,PhD,0,,NO,Y,False,3.54,9,2094.0,Writing,,,,,,,,F,White,no,FALSE
+1010,Pacheco,Adam,Fall,2023,PhD Public Health,3,PhD,0,,no,1,No,3.62,12,1836.0,Writing,,,,,,,,F,White,YES,False
+1010,Pacheco,Adam,Spring,2024,PhD Public Health,3,PhD,No,,No,NO,True,3.54,12,2795.0,Writing,,,,,,,,F,White,0,no
+1011,Shaffer,Helen,Fall,2020,PhD Sociology,1,PhD,0,,No,FALSE,Yes,3.66,12,2458.0,Proposal,,,,,,,,M,White,No,False
+1011,Shaffer,Helen,Spring,2021,PhD Sociology,1,PhD,0,,No,n,Y,3.66,12,2223.0,Proposal,,,,,,,,M,White,n,FALSE
+1011,Shaffer,Helen,Fall,2021,PhD Sociology,2,PhD,N,,No,y,y,3.63,6,2433.0,Proposal,,,,,,,,M,White,FALSE,no
+1011,Shaffer,Helen,Spring,2022,PhD Sociology,2,PhD,No,,No,Yes,Y,3.76,9,2035.0,Proposal,,,,,,,,M,White,0,n
+1011,Shaffer,Helen,Fall,2022,PhD Sociology,3,PhD,N,,no,0,True,3.68,12,2162.0,Approved,,,,,,,,M,White,FALSE,NO
+1011,Shaffer,Helen,Spring,2023,PhD Sociology,3,PhD,n,,NO,y,n,3.8,6,2061.0,Approved,,,,,,,,M,White,n,no
+1011,Shaffer,Helen,Fall,2023,PhD Sociology,4,PhD,False,,No,YES,True,3.78,9,2578.0,Approved,,,,,,,,M,White,N,0
+1011,Shaffer,Helen,Spring,2024,PhD Sociology,4,PhD,0,,NO,,N,3.7,9,2031.0,Approved,,,,,,,,M,White,no,FALSE
+1012,Peterson,Eric,Fall,2021,PhD Sociology,1,PhD,No,,No,NO,Yes,3.49,6,2193.0,Proposal,,,,,,,,M,Pacific Islander,N,no
+1012,Peterson,Eric,Spring,2022,PhD Sociology,1,PhD,False,,No,N,no,3.45,12,,Proposal,,,,,,,,M,Pacific Islander,n,0
+1012,Peterson,Eric,Fall,2022,PhD Sociology,2,PhD,No,,NO,N,NO,3.48,6,,Approved,,,,,,,,M,Pacific Islander,N,False
+1012,Peterson,Eric,Spring,2023,PhD Sociology,2,PhD,NO,,No,N,True,,12,2620.0,Approved,,,,,,,,M,Pacific Islander,False,FALSE
+1012,Peterson,Eric,Fall,2023,PhD Sociology,3,PhD,no,,No,Y,False,3.5,12,1903.0,Approved,,,,,,,,M,Pacific Islander,no,No
+1012,Peterson,Eric,Spring,2024,PhD Sociology,3,PhD,TRUE,,No,No,No,3.42,6,,Writing,,,,,,,,M,Pacific Islander,,n
+1013,BERNARD,Matthew,Fall,2019,PhD Chemistry,1,PhD,0,,No,no,True,,6,2453.0,Proposal,,,,,,,,M,White,n,No
+1013,BERNARD,Matthew,Spring,2020,PhD Chemistry,1,PhD,No,,No,FALSE,FALSE,3.41,12,,Proposal,,,,,,,,M,White,NO,FALSE
+1013,BERNARD,Matthew,Fall,2020,PhD Chemistry,2,PhD,False,,no,FALSE,N,3.49,6,,Proposal,,,,,,,,M,White,n,NO
+1013,BERNARD,Matthew,Spring,2021,PhD Chemistry,2,PhD,FALSE,,TRUE,FALSE,,3.5,6,25817.0,Approved,,,,,,,,M,White,n,FALSE
+1013,BERNARD,Matthew,Fall,2021,PhD Chemistry,3,PhD,no,,No,n,,3.61,12,2396.0,Approved,,,,,,,,M,White,N,FALSE
+1013,BERNARD,Matthew,Spring,2022,PhD Chemistry,3,PhD,FALSE,,No,Y,No,3.57,6,2181.0,Approved,,,,,,,,M,White,n,FALSE
+1013,BERNARD,Matthew,Fall,2022,PhD Chemistry,4,PhD,FALSE,,No,False,NO,3.56,12,,Approved,,,,,,,,M,White,FALSE,N
+1013,BERNARD,Matthew,Spring,2023,PhD Chemistry,4,PhD,NO,,Yes,No,NO,3.59,9,32470.0,Writing,,,,,,,,M,White,False,NO
+1013,BERNARD,Matthew,Fall,2023,PhD Chemistry,5,PhD,N,,No,Y,no,3.66,12,,Writing,,,,,,,,M,White,NO,no
+1013,BERNARD,Matthew,Spring,2024,PhD Chemistry,5,PhD,no,,No,False,y,3.64,12,2919.0,Writing,,,,,,,,M,White,no,0
+1014,Davis,Colin,Fall,2021,MA Higher Education,1,MA,No,,No,0,1,3.12,9,2185.0,N/A,,,,,,,,F,White,N,N
+1014,Davis,Colin,Spring,2022,MA Higher Education,1,MA,no,,no,True,FALSE,3.14,15,1616.0,n/a,,,,,,,,F,White,n,NO
+1014,Davis,Colin,Fall,2022,MA Higher Education,2,MA,n,,NO,FALSE,n,3.1,9,,N/A,,,,,,,,F,White,0,No
+1014,Davis,Colin,Spring,2023,MA Higher Education,2,MA,No,,No,N,n,3.07,12,,N/A,,,,,,,,F,White,0,
+1014,Davis,Colin,Fall,2023,MA Higher Education,3,MA,NO,,No,NO,True,3.02,9,,N/A,,,,,,,,F,White,1,0
+1014,Davis,Colin,Spring,2024,MA Higher Education,3,MA,NO,,No,True,no,2.95,6,1949.0,N/A,2.7,Employed,Academia,40000,Visiting Scholar,Higher Education,9.0,F,White,FALSE,no
+1015,Abbott,Cassandra,Fall,2020,PhD Chemistry,1,PhD,y,,,True,0,3.34,9,2182.0,Proposal,,,,,,,,M,Native American,FALSE,no
+1015,Abbott,Cassandra,Spring,2021,PhD Chemistry,1,PhD,Yes,7013.0,YES,NO,N,3.44,12,23667.0,Proposal,,,,,,,,M,Native American,no,n
+1015,Abbott,Cassandra,Fall,2021,PhD Chemistry,2,PhD,Yes,6346.0,NO,NO,Yes,3.43,6,2400.0,Approved,,,,,,,,M,Native American,N,no
+1015,Abbott,Cassandra,Spring,2022,PhD Chemistry,2,PhD,y,6971.0,No,n,YES,3.38,12,2402.0,Approved,,,,,,,,M,Native American,NO,Y
+1015,Abbott,Cassandra,Fall,2022,PhD Chemistry,3,PhD,y,5934.0,,Y,Yes,3.3,9,2733.0,Writing,,,,,,,,M,Native American,N,no
+1015,Abbott,Cassandra,Spring,2023,PhD Chemistry,3,PhD,True,7087.0,No,no,Yes,3.29,12,2435.0,Writing,,,,,,,,M,Native American,N,NO
+1015,Abbott,Cassandra,Fall,2023,PhD Chemistry,4,PhD,yes,6886.0,No,n,Yes,3.27,6,2215.0,Writing,,,,,,,,M,Native American,0,NO
+1015,Abbott,Cassandra,Spring,2024,PhD Chemistry,4,PhD,Yes,5408.0,NO,NO,YES,3.32,6,2022.0,Defended,,,,,,,,M,Native American,FALSE,No
+1016,ROMAN,Jessica,Fall,2019,MA Higher Education,1,MA,yes,4161.0,Y,False,False,2.72,15,10440.0,N/A,,,,,,,,M,White,n,No
+1016,ROMAN,Jessica,Spring,2020,MA Higher Education,1,MA,YES,3878.0,No,No,no,2.81,9,,N/A,,,,,,,,M,White,No,Y
+1016,ROMAN,Jessica,Fall,2020,MA Higher Education,2,MA,1,3904.0,No,False,FALSE,2.92,,,N/A,,,,,,,,M,White,False,no
+1016,ROMAN,Jessica,Spring,2021,MA Higher Education,2,MA,YES,3965.0,No,False,N,2.81,15,,N/A,,,,,,,,M,White,False,N
+1016,ROMAN,Jessica,Fall,2021,MA Higher Education,3,MA,Yes,4136.0,no,FALSE,0,2.85,15,,N/A,,,,,,,,M,White,NO,no
+1016,ROMAN,Jessica,Spring,2022,MA Higher Education,3,MA,1,3868.0,Y,FALSE,N,2.97,15,16139.0,N/A,2.9,Employed,Academia,45000,Postdoctoral Researcher,Higher Education,5.9,M,White,no,0
+1017,Herrera,Teresa,Fall,2019,PhD Education,1,PhD,no,,No,1,n,2.55,12,1832.0,Proposal,,,,,,,,M,Black,no,N
+1017,Herrera,Teresa,Spring,2020,PhD Education,1,PhD,no,,y,NO,False,2.52,12,,Proposal,,,,,,,,M,Black,NO,NO
+1017,Herrera,Teresa,Fall,2020,PhD Education,2,PhD,False,,YES,no,FALSE,2.48,12,25937.0,Approved,,,,,,,,M,Black,n,NO
+1018,Gray,Andrea,Fall,2018,PhD Public Health,1,PhD,False,,No,No,N,2.68,6,,PROPOSAL,,,,,,,,M,Asian,0,no
+1018,Gray,Andrea,Spring,2019,PhD Public Health,1,PhD,N,,No,Y,No,2.57,12,2146.0,Proposal,,,,,,,,M,Asian,n,n
+1018,Gray,Andrea,Fall,2019,PhD Public Health,2,PhD,n,,y,False,n,2.66,12,30266.0,Approved,,,,,,,,M,Asian,N,FALSE
+1018,Gray,Andrea,Spring,2020,PhD Public Health,2,PhD,NO,,No,N,1,2.76,9,2725.0,Approved,,,,,,,,M,Asian,no,NO
+1018,Gray,Andrea,Fall,2020,PhD Public Health,3,PhD,FALSE,,NO,YES,NO,2.77,9,2147.0,Approved,,,,,,,,M,Asian,0,no
+1018,Gray,Andrea,SPRING,2021,PhD Public Health,3,PhD,,,No,yes,NO,2.75,6,1852.0,Writing,,,,,,,,M,Asian,No,N
+1018,Gray,Andrea,Fall,2021,PhD Public Health,4,PhD,FALSE,,No,n,True,2.72,6,2434.0,Writing,,,,,,,,M,Asian,,N
+1018,Gray,Andrea,Spring,2022,PhD Public Health,4,PhD,No,,Yes,No,No,2.79,6,30346.0,WRITING,,,,,,,,M,Asian,n,FALSE
+1018,Gray,Andrea,Fall,2022,PhD Public Health,5,PhD,,,No,True,Yes,2.73,6,3048.0,Writing,,,,,,,,M,Asian,0,NO
+1018,Gray,Andrea,Spring,2023,PhD Public Health,5,PhD,False,,NO,y,FALSE,2.89,9,2095.0,Writing,,,,,,,,M,Asian,n,False
+1018,Gray,Andrea,Fall,2023,PhD Public Health,6,PhD,no,,TRUE,No,NO,2.81,9,33668.0,Defended,,,,,,,,M,Asian,FALSE,False
+1018,Gray,Andrea,Spring,2024,PhD Public Health,6,PhD,0,,No,FALSE,True,2.81,12,2664.0,Defended,5.8,EMPLOYED,Academia,73000,Visiting Scholar,Higher Education,6.1,M,Asian,n,FALSE
+1019,Calderon,Christine,Fall,2021,PhD Engineering,1,PhD,no,,No,True,Y,2.94,9,1502.0,Proposal,,,,,,,,F,Hispanic,FALSE,N
+1019,Calderon,Christine,Spring,2022,PhD Engineering,1,PhD,no,,No,NO,yes,2.9,9,2771.0,Proposal,,,,,,,,F,Hispanic,no,False
+1019,Calderon,Christine,Fall,2022,PhD Engineering,2,PhD,n,,No,no,y,2.97,9,2674.0,Proposal,,,,,,,,F,Hispanic,no,no
+1019,Calderon,Christine,Spring,2023,PhD Engineering,2,PhD,n,,No,y,Yes,2.9,12,2023.0,Approved,,,,,,,,F,Hispanic,No,No
+1019,Calderon,Christine,Fall,2023,PhD Engineering,3,PhD,,,No,n,TRUE,2.88,6,2388.0,Approved,,,,,,,,F,Hispanic,0,False
+1019,Calderon,Christine,Spring,2024,PhD Engineering,3,PhD,no,,no,NO,n,2.92,9,,Approved,,,,,,,,F,Hispanic,n,False
+1020,Hensley,Barbara,Fall,2018,PhD Sociology,1,PhD,N,,No,FALSE,Yes,3.87,6,2729.0,Proposal,,,,,,,,M,Black,NO,No
+1020,Hensley,Barbara,Spring,2019,PhD Sociology,1,PhD,NO,,NO,FALSE,no,3.89,6,,Proposal,,,,,,,,M,Black,n,FALSE
+1020,Hensley,Barbara,Fall,2019,PhD Sociology,2,PhD,FALSE,,,YES,NO,3.88,12,1782.0,Proposal,,,,,,,,M,Black,n,False
+1020,Hensley,Barbara,Spring,2020,PhD Sociology,2,PhD,0,,no,False,yes,3.85,12,2129.0,Approved,,,,,,,,M,Black,NO,0
+1020,Hensley,Barbara,Fall,2020,PhD Sociology,3,PhD,n,,No,y,False,3.84,6,2123.0,Approved,,,,,,,,M,Black,False,False
+1020,Hensley,Barbara,Spring,2021,PhD Sociology,3,PhD,0,,,YES,No,3.82,9,2125.0,Approved,,,,,,,,M,Black,FALSE,n
+1020,Hensley,Barbara,Fall,2021,PhD Sociology,4,PhD,No,,no,yes,yes,3.81,6,3236.0,Writing,,,,,,,,M,Black,False,No
+1020,Hensley,Barbara,Spring,2022,PhD Sociology,4,PhD,0,,No,False,YES,3.86,12,2517.0,Writing,,,,,,,,M,Black,yes,n
+1020,Hensley,Barbara,Fall,2022,PhD Sociology,5,PhD,,,no,1,FALSE,,6,1809.0,Writing,,,,,,,,M,Black,n,FALSE
+1020,Hensley,Barbara,Spring,2023,PhD Sociology,5,PhD,0,,No,1,no,3.94,9,2118.0,Writing,,,,,,,,M,Black,FALSE,N
+1020,Hensley,Barbara,Fall,2023,PhD Sociology,6,PhD,FALSE,,TRUE,NO,No,3.94,6,,Writing,,,,,,,,M,Black,NO,N
+1020,Hensley,Barbara,Spring,2024,PhD Sociology,6,PhD,n,,No,Yes,True,3.89,6,2909.0,Defended,,,,,,,,M,Black,N,0
+1021,Bush,Brandon,Fall,2019,PhD Education,1,PhD,0,,No,Yes,FALSE,3.69,12,2046.0,Proposal,,,,,,,,F,Hispanic,,n
+1021,Bush,Brandon,Spring,2020,PhD Education,1,PhD,n,,No,,FALSE,3.73,,1941.0,Proposal,,,,,,,,F,Hispanic,False,N
+1021,Bush,Brandon,Fall,2020,PhD Education,2,PhD,No,,1,NO,n,3.69,9,34491.0,Proposal,,,,,,,,F,Hispanic,FALSE,N
+1021,Bush,Brandon,Spring,2021,PhD Education,2,PhD,N,,No,YES,False,3.78,9,1941.0,APPROVED,,,,,,,,F,Hispanic,n,N
+1021,Bush,Brandon,Fall,2021,PhD Education,3,PhD,FALSE,,no,1,y,3.84,9,2991.0,Approved,,,,,,,,F,Hispanic,False,no
+1021,Bush,Brandon,Spring,2022,PhD Education,3,PhD,FALSE,,No,n,y,3.71,12,2471.0,Approved,,,,,,,,F,Hispanic,no,NO
+1021,Bush,Brandon,Fall,2022,PhD Education,4,PhD,False,,No,True,Yes,3.76,12,2898.0,Approved,,,,,,,,F,Hispanic,n,False
+1021,Bush,Brandon,Spring,2023,PhD Education,4,PhD,FALSE,,No,1,n,3.85,6,1986.0,Writing,,,,,,,,F,Hispanic,no,n
+1021,Bush,Brandon,Fall,2023,PhD Education,5,PhD,No,,no,No,y,3.89,9,2940.0,Writing,,,,,,,,F,Hispanic,,NO
+1021,Bush,Brandon,Spring,2024,PhD Education,5,PhD,0,,No,yes,,3.85,6,2065.0,Writing,,,,,,,,F,Hispanic,no,FALSE
+1022,Perez,Keith,Fall,2021,MPH,1,MPH,n,,No,Y,FALSE,3.05,6,2080.0,N/A,,,,,,,,F,Hispanic,n,no
+1022,Perez,Keith,Spring,2022,MPH,1,MPH,,,no,yes,no,3.11,15,2001.0,N/A,0.9,Employed,Government,71000,Economist,Government,12.0,F,Hispanic,no,NO
+1023,Miller,Jesse,Fall,2020,MPH,1,MPH,Yes,,no,N,FALSE,2.85,6,,N/A,,,,,,,,M,Pacific Islander,no,no
+1023,Miller,Jesse,Spring,2021,MPH,1,MPH,No,,no,no,False,2.97,6,,N/A,,,,,,,,M,Pacific Islander,n,no
+1023,Miller,Jesse,Fall,2021,MPH,2,MPH,n,,No,True,FALSE,2.95,9,2014.0,N/A,1.3,EMPLOYED,Government,76000,Research Analyst,Government,9.8,M,Pacific Islander,NO,No
+1024,Garcia,Joshua,Fall,2021,MA Counseling,1,MA,FALSE,,no,n,YES,3.64,6,1871.0,N/A,,,,,,,,M,Black,False,TRUE
+1024,Garcia,Joshua,spring,2022,MA COUNSELING,1,MA,n,,no,False,FALSE,3.59,9,,N/A,,,,,,,,M,Black,FALSE,
+1024,Garcia,Joshua,Fall,2022,MA Counseling,2,MA,FALSE,,No,no,no,3.59,,,N/A,,,,,,,,M,Black,NO,yes
+1024,Garcia,Joshua,Spring,2023,MA Counseling,2,MA,FALSE,,No,False,FALSE,3.6,,,N/A,,,,,,,,M,Black,False,Y
+1024,Garcia,Joshua,Fall,2023,MA Counseling,3,MA,NO,,No,NO,TRUE,3.72,6,1984.0,N/a,2.3,employed,Nonprofit,42000,Development Officer,Nonprofit,6.9,M,Black,NO,True
+1025,Reid,Michael,Fall,2021,PhD Economics,1,PhD,No,,No,False,N,3.93,6,,Proposal,,,,,,,,F,Middle Eastern,Yes,N
+1025,Reid,Michael,Spring,2022,PhD Economics,1,PhD,no,,TRUE,NO,,3.82,9,23468.0,Proposal,,,,,,,,F,Middle Eastern,Yes,n
+1025,Reid,Michael,Fall,2022,PhD Economics,2,PhD,FALSE,,no,No,No,3.9,12,,Proposal,,,,,,,,F,Middle Eastern,Y,FALSE
+1025,Reid,Michael,Spring,2023,PhD Economics,2,PhD,False,,YES,no,no,3.9,6,24762.0,Approved,,,,,,,,F,Middle Eastern,TRUE,n
+1025,Reid,Michael,Fall,2023,PhD Economics,3,PhD,N,,No,True,no,3.99,12,2001.0,Approved,,,,,,,,F,Middle Eastern,Yes,N
+1025,Reid,Michael,Spring,2024,Phd economics,3,PhD,No,,No,TRUE,FALSE,4.0,12,2088.0,Approved,,,,,,,,F,Middle Eastern,Yes,FALSE
+1026,WOOD,Jason,Fall,2021,PhD Public Health,1,PhD,yes,2008.0,No,y,no,3.19,9,2218.0,Proposal,,,,,,,,M,Asian,yes,no
+1026,WOOD,Jason,SPRING,2022,PhD Public Health,1,PhD,1,2263.0,No,Yes,0,3.3,9,1999.0,Proposal,,,,,,,,M,Asian,Y,N
+1026,WOOD,Jason,Fall,2022,PhD Public Health,2,PhD,YES,2581.0,NO,no,no,3.28,12,,Proposal,,,,,,,,M,Asian,YES,n
+1026,WOOD,Jason,Spring,2023,PhD Public Health,2,PhD,y,2342.0,True,n,n,3.18,12,33907.0,Approved,,,,,,,,M,Asian,Yes,N
+1026,WOOD,Jason,Fall,2023,PhD Public Health,3,PhD,1,2151.0,Yes,NO,False,3.25,12,21708.0,Approved,,,,,,,,M,Asian,yes,False
+1026,WOOD,Jason,Spring,2024,PhD Public Health,3,PhD,y,2179.0,No,False,Yes,3.25,12,2339.0,Approved,,,,,,,,M,Asian,Yes,N
+1027,ADAMS,Sharon,Fall,2019,PhD Computer Science,1,PhD,YES,765.0,yes,No,n,2.99,6,28663.0,Proposal,,,,,,,,M,White,YES,
+1027,ADAMS,Sharon,Spring,2020,PhD Computer Science,1,PhD,1,,NO,n,0,3.01,6,,Proposal,,,,,,,,M,White,Y,NO
+1027,ADAMS,Sharon,Fall,2020,PhD Computer Science,2,PhD,1,839.0,No,0,yes,3.11,12,2689.0,Approved,,,,,,,,M,White,YES,no
+1027,ADAMS,Sharon,Spring,2021,PhD Computer Science,2,PhD,True,926.0,No,0,Y,3.07,12,2438.0,Approved,,,,,,,,M,White,YES,0
+1027,ADAMS,Sharon,Fall,2021,PhD Computer Science,3,PhD,y,888.0,,TRUE,No,3.08,9,1836.0,Writing,,,,,,,,M,White,Y,n
+1028,Wong,Chelsea,Fall,2021,PhD Sociology,1,PhD,no,,No,FALSE,yes,2.5,9,2380.0,Proposal,,,,,,,,Not Reported,White,No,FALSE
+1028,Wong,Chelsea,Spring,2022,PhD Sociology,1,PhD,False,,no,0,TRUE,2.62,12,2484.0,Proposal,,,,,,,,Not Reported,White,0,0
+1028,Wong,Chelsea,Fall,2022,PhD Sociology,2,PhD,0,,No,1,NO,2.61,9,2074.0,Proposal,,,,,,,,Not Reported,White,False,n
+1028,Wong,Chelsea,Spring,2023,PhD Sociology,2,PhD,No,,1,n,n,2.55,6,21238.0,Proposal,,,,,,,,Not Reported,White,no,no
+1028,Wong,Chelsea,Fall,2023,PhD Sociology,3,PhD,n,,No,0,FALSE,2.59,9,,Approved,,,,,,,,Not Reported,White,no,0
+1028,Wong,Chelsea,Spring,2024,PhD Sociology,3,PhD,n,,No,0,Yes,2.55,9,2097.0,Approved,,,,,,,,Not Reported,White,FALSE,N
+1029,Jackson,Jessica,Fall,2018,PhD Engineering,1,PhD,n,,No,yes,no,3.95,12,2396.0,Proposal,,,,,,,,M,Black,False,n
+1029,Jackson,Jessica,Spring,2019,PhD Engineering,1,PhD,n,,No,0,FALSE,3.87,9,,Approved,,,,,,,,M,Black,0,No
+1029,Jackson,Jessica,Fall,2019,PhD Engineering,2,PhD,NO,,No,YES,1,3.93,12,1621.0,Approved,,,,,,,,M,Black,False,n
+1029,Jackson,Jessica,Spring,2020,PhD Engineering,2,PhD,0,,No,1,N,3.88,12,1810.0,Writing,,,,,,,,M,Black,False,No
+1029,Jackson,Jessica,fall,2020,PhD Engineering,3,PhD,no,,No,no,Yes,4.0,12,,Writing,,,,,,,,M,Black,NO,N
+1029,Jackson,Jessica,SPRING,2021,PhD Engineering,3,PhD,No,,no,N,True,3.93,6,2063.0,Writing,,,,,,,,M,Black,FALSE,0
+1029,Jackson,Jessica,Fall,2021,PhD Engineering,4,PhD,False,,No,y,yes,3.92,12,3111.0,Defended,,,,,,,,M,Black,N,NO
+1029,Jackson,Jessica,Spring,2022,PhD Engineering,4,PhD,NO,,no,1,No,3.96,12,1822.0,defended,3.8,Employed,Consulting,105000,Management Consultant,Consulting,0.6,M,Black,0,N
+1030,MARTIN,Noah,Fall,2019,MS Statistics,1,MS,N,,No,1,N,2.94,6,2120.0,N/A,,,,,,,,M,White,0,0
+1030,MARTIN,Noah,Spring,2020,MS Statistics,1,MS,0,,No,No,1,2.92,12,2313.0,N/A,,,,,,,,M,White,No,N
+1030,MARTIN,Noah,Fall,2020,MS Statistics,2,MS,N,,No,,FALSE,2.91,15,,N/A,1.1,Employed,Industry,114000,Data Scientist,Tech,8.3,M,White,False,False
+1031,Mayo,Danielle,Fall,2019,PhD Chemistry,1,PhD,no,,No,n,YES,3.42,9,2151.0,Proposal,,,,,,,,M,Black,0,No
+1031,Mayo,Danielle,Spring,2020,PhD Chemistry,1,PhD,0,,No,Y,False,3.45,9,1965.0,Proposal,,,,,,,,M,Black,n,0
+1031,Mayo,Danielle,Fall,2020,PhD Chemistry,2,PhD,No,,No,yes,no,,6,1865.0,Approved,,,,,,,,M,Black,no,no
+1031,Mayo,Danielle,Spring,2021,PhD Chemistry,2,PhD,False,,No,True,n,3.49,9,2188.0,Approved,,,,,,,,M,Black,No,n
+1031,Mayo,Danielle,Fall,2021,PhD Chemistry,3,PhD,FALSE,,No,Yes,NO,3.45,6,2190.0,Writing,,,,,,,,M,Black,False,False
+1031,Mayo,Danielle,Spring,2022,PhD Chemistry,3,PhD,FALSE,,No,TRUE,NO,3.41,9,1857.0,Writing,,,,,,,,M,Black,n,no
+1031,Mayo,Danielle,Fall,2022,PhD Chemistry,4,PhD,N,,No,Yes,n,3.46,9,2182.0,Writing,,,,,,,,M,Black,,NO
+1031,Mayo,Danielle,Spring,2023,PhD Chemistry,4,PhD,False,,yes,No,No,3.36,12,24795.0,Writing,,,,,,,,M,Black,NO,no
+1031,Mayo,Danielle,Fall,2023,PhD Chemistry,5,PhD,N,,No,True,n,3.35,12,1949.0,Defended,,,,,,,,M,Black,NO,NO
+1031,Mayo,Danielle,Spring,2024,PhD Chemistry,5,PhD,No,,NO,n,,3.35,9,2815.0,Defended,4.6,EMPLOYED,Industry,81000,Research Scientist,Tech,8.3,M,Black,No,No
+1032,HAWKINS,Gabrielle,Fall,2018,PhD Psychology,1,PhD,N,,No,N,1,3.32,6,2293.0,Proposal,,,,,,,,NB,White,False,no
+1032,HAWKINS,Gabrielle,Spring,2019,PhD Psychology,1,PhD,0,,No,1,FALSE,3.2,9,1876.0,Proposal,,,,,,,,NB,White,NO,NO
+1033,CAMERON,Kimberly,Fall,2020,MS Statistics,1,MS,n,,NO,no,,3.92,15,2316.0,N/A,,,,,,,,M,Asian,NO,0
+1033,CAMERON,Kimberly,Spring,2021,MS Statistics,1,MS,,,No,,NO,3.94,12,,N/A,,,,,,,,M,Asian,n,FALSE
+1033,CAMERON,Kimberly,Fall,2021,MS Statistics,2,MS,No,,NO,0,False,4.0,15,,N/A,,,,,,,,M,Asian,FALSE,False
+1033,CAMERON,Kimberly,Spring,2022,MS Statistics,2,MS,FALSE,,No,Yes,FALSE,3.95,6,1898.0,N/A,,,,,,,,M,Asian,0,False
+1033,CAMERON,Kimberly,Fall,2022,MS Statistics,3,MS,n,,No,N,FALSE,3.95,15,,N/A,2.2,Employed,Government,77000,Public Health Analyst,Government,6.8,M,Asian,False,0
+1034,Perez,Antonio,Fall,2019,PhD Engineering,1,PhD,n,,No,FALSE,no,3.65,9,,Proposal,,,,,,,,M,Hispanic,FALSE,N
+1034,Perez,Antonio,Spring,2020,PhD Engineering,1,PhD,no,,No,Yes,n,3.63,6,2147.0,Proposal,,,,,,,,M,Hispanic,NO,n
+1034,Perez,Antonio,Fall,2020,PhD Engineering,2,PhD,False,,No,N,n,3.59,12,,Approved,,,,,,,,M,Hispanic,N,no
+1034,Perez,Antonio,Spring,2021,PhD Engineering,2,PhD,TRUE,,No,N,False,3.65,12,,Approved,,,,,,,,M,Hispanic,n,N
+1034,Perez,Antonio,Fall,2021,PhD Engineering,3,PhD,False,,No,1,False,3.62,12,2087.0,Writing,,,,,,,,M,Hispanic,No,0
+1034,Perez,Antonio,SPRING,2022,PhD Engineering,3,PhD,NO,,no,yes,False,3.64,6,1981.0,Writing,,,,,,,,M,Hispanic,FALSE,N
+1034,Perez,Antonio,Fall,2022,PhD Engineering,4,PhD,NO,,yes,FALSE,False,3.62,9,34209.0,Writing,,,,,,,,M,Hispanic,n,no
+1034,Perez,Antonio,Spring,2023,PhD Engineering,4,PhD,N,,NO,n,Y,3.74,6,2370.0,Defended,,,,,,,,M,Hispanic,n,No
+1034,Perez,Antonio,Fall,2023,PhD Engineering,5,PhD,NO,,NO,,TRUE,3.79,12,3171.0,Defended,4.5,Employed,Industry,130000,Research Scientist,Tech,5.6,M,Hispanic,0,False
+1035,Stewart,Joseph,Fall,2018,PhD Public Health,1,PhD,N,,no,0,yes,,9,2099.0,Proposal,,,,,,,,M,White,no,0
+1035,Stewart,Joseph,Spring,2019,PhD Public Health,1,PhD,0,,,No,0,3.16,9,,Proposal,,,,,,,,M,White,no,n
+1035,Stewart,Joseph,Fall,2019,PhD Public Health,2,PhD,n,,NO,Yes,FALSE,3.08,9,1914.0,Approved,,,,,,,,M,White,False,N
+1035,Stewart,Joseph,Spring,2020,PhD Public Health,2,PhD,n,,YES,No,N,3.07,9,33960.0,Approved,,,,,,,,M,White,n,n
+1035,Stewart,Joseph,Fall,2020,PhD Public Health,3,PhD,False,,YES,n,No,3.06,9,31108.0,Writing,,,,,,,,M,White,0,no
+1035,Stewart,Joseph,Spring,2021,PhD Public Health,3,PhD,NO,,No,1,0,3.06,9,1921.0,Writing,,,,,,,,M,White,NO,N
+1035,Stewart,Joseph,Fall,2021,PhD Public Health,4,PhD,n,,,no,yes,3.0,12,2902.0,Writing,,,,,,,,M,White,No,FALSE
+1035,Stewart,Joseph,Spring,2022,PhD Public Health,4,PhD,False,,No,0,Yes,3.0,,2422.0,Defended,,,,,,,,M,White,no,False
+1035,Stewart,Joseph,Fall,2022,PhD Public Health,5,PhD,0,,No,TRUE,False,3.03,12,2118.0,Defended,4.2,Employed,Academia,52000,Research Scientist,Higher Education,2.4,M,White,No,n
+1036,CLARK,Sherri,Fall,2021,PhD Computer Science,1,PhD,0,,no,NO,NO,3.54,9,,Proposal,,,,,,,,M,Hispanic,False,N
+1036,CLARK,Sherri,Spring,2022,PhD Computer Science,1,PhD,False,,NO,TRUE,no,3.53,9,2101.0,Proposal,,,,,,,,M,Hispanic,No,NO
+1036,CLARK,Sherri,Fall,2022,PhD Computer Science,2,PhD,N,,True,n,n,3.52,12,33638.0,Approved,,,,,,,,M,Hispanic,0,FALSE
+1036,CLARK,Sherri,Spring,2023,PhD Computer Science,2,PhD,FALSE,,No,YES,False,3.49,12,,Approved,,,,,,,,M,Hispanic,No,False
+1036,CLARK,Sherri,Fall,2023,PhD Computer Science,3,PhD,False,,no,N,no,3.53,6,,Approved,,,,,,,,M,Hispanic,FALSE,No
+1036,CLARK,Sherri,Spring,2024,PhD Computer Science,3,PhD,NO,,No,FALSE,1,3.52,12,2732.0,Writing,,,,,,,,M,Hispanic,No,False
+1037,WALTER,Leonard,Fall,2019,MS Business Analytics,1,MS,False,,No,FALSE,no,2.33,6,,N/A,,,,,,,,F,White,FALSE,False
+1037,WALTER,Leonard,Spring,2020,MS Business Analytics,1,MS,,,No,NO,No,2.43,9,,N/A,,,,,,,,F,White,No,0
+1037,WALTER,Leonard,Fall,2020,MS Business Analytics,2,MS,False,,Y,n,no,2.48,12,12161.0,N/A,,,,,,,,F,White,n,FALSE
+1037,WALTER,Leonard,Spring,2021,MS Business Analytics,2,MS,n,,No,FALSE,False,2.34,9,,N/A,1.9,Employed,Industry,103000,Research Scientist,Tech,11.6,F,White,N,no
+1038,Rios,Randall,Fall,2019,MS PUBLIC POLICY,1,MS,False,,true,n,False,3.27,6,19528.0,N/A,,,,,,,,M,Hispanic,,No
+1038,Rios,Randall,Spring,2020,MS Public Policy,1,MS,No,,No,NO,0,3.37,15,,N/A,,,,,,,,M,Hispanic,Y,No
+1039,Rocha,Stephen,Fall,2018,MS Public Policy,1,MS,0,,No,Y,n,2.71,9,1634.0,N/A,,,,,,,,F,Asian,,No
+1039,Rocha,Stephen,Spring,2019,MS Public Policy,1,MS,N,,No,No,0,2.59,15,,N/A,,,,,,,,F,Asian,NO,False
+1040,Baker,John,Fall,2021,PhD Economics,1,PhD,No,,No,y,NO,,12,2071.0,Proposal,,,,,,,,F,Black,TRUE,False
+1040,Baker,John,Spring,2022,PhD Economics,1,PhD,FALSE,,true,N,n,4.0,6,26315.0,Proposal,,,,,,,,F,Black,True,no
+1040,Baker,John,Fall,2022,PhD Economics,2,PhD,False,,no,Yes,N,3.93,12,2056.0,Approved,,,,,,,,F,Black,True,no
+1040,Baker,John,Spring,2023,PhD Economics,2,PhD,N,,,True,FALSE,4.0,12,1874.0,Approved,,,,,,,,F,Black,True,N
+1040,Baker,John,Fall,2023,PhD Economics,3,PhD,FALSE,,No,Yes,NO,4.0,6,1935.0,Writing,,,,,,,,F,Black,yes,N
+1040,Baker,John,Spring,2024,PhD Economics,3,PhD,0,,No,y,Yes,4.0,6,3129.0,Writing,,,,,,,,F,Black,yes,False
+1041,Hoffman,Jose,Fall,2020,MA Higher Education,1,MA,NO,,,False,FALSE,2.94,6,,N/A,,,,,,,,F,Hispanic,NO,NO
+1041,Hoffman,Jose,Spring,2021,MA Higher Education,1,MA,No,,No,no,n,3.03,12,,N/A,,,,,,,,F,Hispanic,no,N
+1041,Hoffman,Jose,Fall,2021,MA Higher Education,2,MA,False,,,TRUE,No,3.04,15,1762.0,N/A,,,,,,,,F,Hispanic,FALSE,n
+1041,Hoffman,Jose,spring,2022,MA Higher Education,2,MA,n,,No,FALSE,FALSE,3.08,12,,N/A,,,,,,,,F,Hispanic,no,0
+1041,Hoffman,Jose,Fall,2022,MA Higher Education,3,MA,N,,yes,,FALSE,2.98,6,24844.0,N/A,,,,,,,,F,Hispanic,0,n
+1041,Hoffman,Jose,Spring,2023,MA Higher Education,3,MA,n,,NO,False,0,2.94,9,,N/A,,,,,,,,F,Hispanic,no,FALSE
+1041,Hoffman,Jose,Fall,2023,MA Higher Education,4,MA,0,,No,n,N,3.0,6,,N/A,3.3,Employed,Academia,44000,Visiting Scholar,Higher Education,9.4,F,Hispanic,,0
+1042,RICHARDS,Rachael,Fall,2021,MS Data Science,1,MS,NO,,No,,no,3.31,15,,N/A,,,,,,,,M,Multiracial,No,FALSE
+1042,RICHARDS,Rachael,Spring,2022,MS Data Science,1,MS,FALSE,,No,YES,no,3.29,,2007.0,N/A,,,,,,,,M,Multiracial,N,No
+1042,RICHARDS,Rachael,Fall,2022,MS Data Science,2,MS,no,,yes,n,NO,3.26,12,13779.0,N/A,,,,,,,,M,Multiracial,False,NO
+1042,RICHARDS,Rachael,Spring,2023,MS Data Science,2,MS,no,,no,,,3.33,9,,N/A,,,,,,,,M,Multiracial,no,N
+1042,RICHARDS,Rachael,Fall,2023,MS Data Science,3,MS,N,,No,FALSE,No,3.27,12,,N/A,,,,,,,,M,Multiracial,N,False
+1042,RICHARDS,Rachael,Spring,2024,MS Data Science,3,MS,no,,no,Y,0,3.35,6,1718.0,N/A,3.0,Employed,Industry,142000,Engineer,Tech,3.3,M,Multiracial,FALSE,0
+1043,Ross,Jeffrey,Fall,2019,PhD Engineering,1,PhD,n,,No,FALSE,YES,2.46,9,2327.0,Proposal,,,,,,,,M,Asian,False,False
+1043,Ross,Jeffrey,Spring,2020,PhD Engineering,1,PhD,FALSE,,,no,yes,2.38,6,2203.0,Proposal,,,,,,,,M,Asian,NO,FALSE
+1044,Bright,William,Fall,2021,MS Public Policy,1,MS,no,,No,False,0,3.64,15,,N/A,,,,,,,,F,Black,FALSE,NO
+1044,Bright,William,Spring,2022,MS Public Policy,1,MS,n,,no,No,Yes,3.64,,,N/A,,,,,,,,F,Black,False,False
+1044,Bright,William,Fall,2022,MS Public Policy,2,MS,0,,No,FALSE,no,3.63,6,,N/a,,,,,,,,F,Black,0,No
+1044,Bright,William,Spring,2023,MS Public Policy,2,MS,No,,No,NO,1,3.55,12,2491.0,N/A,,,,,,,,F,Black,n,0
+1044,Bright,William,Fall,2023,MS Public Policy,3,MS,NO,,no,No,FALSE,3.55,9,,N/A,2.3,EMPLOYED,Academia,46000,Visiting Scholar,Higher Education,6.4,F,Black,FALSE,FALSE
+1045,Davis,Brandon,Fall,2020,MS Public Policy,1,MS,,,No,y,0,3.49,9,1603.0,N/A,,,,,,,,NB,Asian,NO,0
+1045,Davis,Brandon,Spring,2021,MS Public Policy,1,MS,No,,no,N,no,3.44,12,,N/A,,,,,,,,NB,Asian,0,FALSE
+1045,Davis,Brandon,Fall,2021,MS Public Policy,2,MS,FALSE,,No,n,no,3.53,6,,N/A,1.4,employed,Consulting,83000,Management Consultant,Consulting,4.3,NB,Asian,no,0
+1046,Rodriguez,Courtney,Fall,2021,MA Counseling,1,MA,yes,2481.0,no,0,no,2.78,6,,N/A,,,,,,,,NB,Black,FALSE,0
+1046,Rodriguez,Courtney,Spring,2022,MA Counseling,1,MA,Yes,2530.0,No,no,,2.89,9,,N/A,,,,,,,,NB,Black,n,FALSE
+1046,Rodriguez,Courtney,Fall,2022,MA Counseling,2,MA,yes,2330.0,Yes,False,NO,2.92,12,13557.0,N/A,,,,,,,,NB,Black,n,no
+1047,Conner,Robert,Fall,2018,MS Public Policy,1,MS,no,,No,n,n,2.46,15,,N/A,,,,,,,,F,White,0,n
+1047,Conner,Robert,Spring,2019,MS Public Policy,1,MS,False,,No,FALSE,No,2.57,15,,N/A,,Stopped Out,,,,,,F,White,FALSE,False
+1048,Brown,Patrick,Fall,2019,PhD Psychology,1,PhD,N,,No,0,YES,2.91,6,2324.0,Proposal,,,,,,,,F,Asian,No,N
+1048,Brown,Patrick,Spring,2020,PhD Psychology,1,PhD,No,,NO,N,YES,,9,2232.0,Proposal,,,,,,,,F,Asian,0,1
+1048,Brown,Patrick,Fall,2020,PhD Psychology,2,PhD,n,,No,no,Yes,2.86,,2125.0,Approved,,,,,,,,F,Asian,0,FALSE
+1048,Brown,Patrick,Spring,2021,PhD Psychology,2,PhD,FALSE,,No,0,NO,,9,,Approved,,,,,,,,F,Asian,FALSE,No
+1048,Brown,Patrick,Fall,2021,PhD Psychology,3,PhD,N,,No,,YES,2.89,9,2761.0,Writing,,,,,,,,F,Asian,0,no
+1048,Brown,Patrick,Spring,2022,PhD Psychology,3,PhD,FALSE,,No,N,FALSE,2.93,,,Writing,,,,,,,,F,Asian,n,FALSE
+1048,Brown,Patrick,Fall,2022,PhD Psychology,4,PhD,False,,No,0,NO,2.99,9,,Writing,,,,,,,,F,Asian,FALSE,NO
+1048,Brown,Patrick,Spring,2023,PhD Psychology,4,PhD,False,,No,N,yes,3.03,6,2192.0,Writing,,,,,,,,F,Asian,FALSE,No
+1048,Brown,Patrick,Fall,2023,PhD Psychology,5,PhD,0,,true,NO,FALSE,3.14,6,26013.0,Defended,,,,,,,,F,Asian,n,n
+1048,Brown,Patrick,Spring,2024,PhD Psychology,5,PhD,No,,No,Yes,N,3.02,6,2014.0,Defended,4.6,Employed,Academia,59000,Visiting Scholar,Higher Education,8.7,F,Asian,n,NO
+1049,Ferrell,Allison,Fall,2019,MS Statistics,1,MS,FALSE,,NO,No,FALSE,3.24,9,,N/A,,,,,,,,F,White,No,No
+1049,Ferrell,Allison,Spring,2020,MS Statistics,1,MS,0,,No,,NO,3.23,12,,n/a,,,,,,,,F,White,0,n
+1050,Maddox,Michelle,Fall,2020,PhD Economics,1,PhD,NO,,No,No,True,2.54,12,2480.0,Proposal,,,,,,,,F,White,False,NO
+1050,Maddox,Michelle,Spring,2021,PhD Economics,1,PhD,FALSE,,No,YES,y,2.53,6,1645.0,Proposal,,,,,,,,F,White,no,N
+1050,Maddox,Michelle,Fall,2021,PhD Economics,2,PhD,no,,Y,N,No,2.62,6,34909.0,Approved,,,,,,,,F,White,FALSE,No
+1050,Maddox,Michelle,Spring,2022,PhD Economics,2,PhD,no,,NO,NO,yes,2.68,12,2024.0,Approved,,,,,,,,F,White,n,0
+1050,Maddox,Michelle,Fall,2022,PhD Economics,3,PhD,no,,No,TRUE,n,2.73,6,2168.0,Writing,,,,,,,,F,White,No,NO
+1050,Maddox,Michelle,Spring,2023,PhD Economics,3,PhD,N,,NO,NO,True,2.75,6,2028.0,Writing,,,,,,,,F,White,n,No
+1050,Maddox,Michelle,Fall,2023,PhD Economics,4,PhD,FALSE,,No,True,yes,2.8,6,3203.0,Writing,,,,,,,,F,White,No,0
+1050,Maddox,Michelle,Spring,2024,PhD Economics,4,PhD,NO,,No,True,n,2.78,6,1944.0,WRITING,,,,,,,,F,White,0,n
+1051,Smith,Jennifer,Fall,2021,MA Counseling,1,MA,No,,No,False,False,3.93,12,,N/A,,,,,,,,NB,White,No,FALSE
+1051,Smith,Jennifer,Spring,2022,MA Counseling,1,MA,0,,No,NO,FALSE,3.94,6,,N/A,,Stopped Out,,,,,,NB,White,no,N
+1052,Maldonado,Amanda,Fall,2021,MS Business Analytics,1,MS,yes,1782.0,yes,N,0,3.29,6,24484.0,N/A,,,,,,,,M,Hispanic,False,
+1052,Maldonado,Amanda,Spring,2022,MS Business Analytics,1,MS,Y,1563.0,No,no,NO,3.3,15,,N/A,,,,,,,,M,Hispanic,No,n
+1052,Maldonado,Amanda,Fall,2022,MS Business Analytics,2,MS,YES,1868.0,True,False,FALSE,3.28,15,12653.0,N/A,,,,,,,,M,Hispanic,NO,FALSE
+1052,Maldonado,Amanda,Spring,2023,MS Business Analytics,2,MS,True,1735.0,No,FALSE,NO,3.29,6,,N/A,,,,,,,,M,Hispanic,n,FALSE
+1052,Maldonado,Amanda,Fall,2023,MS Business Analytics,3,MS,TRUE,1980.0,No,FALSE,No,3.34,12,,N/A,2.1,Employed,Industry,115000,Research Scientist,Tech,5.2,M,Hispanic,n,False
+1053,Adams,Danielle,Fall,2021,PhD Chemistry,1,PhD,False,,yes,No,NO,2.75,9,26887.0,Proposal,,,,,,,,M,Asian,NO,NO
+1053,Adams,Danielle,Spring,2022,PhD Chemistry,1,PhD,y,,No,no,No,2.79,12,,PROPOSAL,,,,,,,,M,Asian,No,no
+1053,Adams,Danielle,Fall,2022,PhD Chemistry,2,PhD,n,,No,True,0,2.68,12,2098.0,Approved,,,,,,,,M,Asian,n,0
+1053,Adams,Danielle,Spring,2023,PhD Chemistry,2,PhD,no,,No,NO,y,2.74,6,2469.0,Approved,,,,,,,,M,Asian,no,False
+1054,RODRIGUEZ,Ryan,Fall,2021,MA Higher Education,1,MA,Yes,378.0,y,False,No,3.7,6,,N/A,,,,,,,,M,Hispanic,0,n
+1054,RODRIGUEZ,Ryan,Spring,2022,MA Higher Education,1,MA,yes,,NO,NO,NO,3.65,6,,N/A,,,,,,,,M,Hispanic,False,No
+1055,CHAVEZ,Stephanie,Fall,2021,MA Counseling,1,MA,No,,no,NO,N,3.4,12,,N/A,,,,,,,,NB,White,FALSE,Y
+1055,CHAVEZ,Stephanie,Spring,2022,MA Counseling,1,MA,NO,,no,False,N,3.4,15,,N/A,,,,,,,,NB,White,NO,yes
+1055,CHAVEZ,Stephanie,Fall,2022,MA Counseling,2,MA,0,,no,False,YES,3.28,6,1834.0,N/A,,,,,,,,NB,White,No,Y
+1055,CHAVEZ,Stephanie,Spring,2023,MA Counseling,2,MA,No,,no,NO,n,3.35,12,,N/A,,,,,,,,NB,White,0,Y
+1055,CHAVEZ,Stephanie,Fall,2023,MA Counseling,3,MA,n,,Yes,,no,3.35,6,18910.0,N/A,,,,,,,,NB,White,no,YES
+1055,CHAVEZ,Stephanie,Spring,2024,MA Counseling,3,MA,N,,NO,n,1,3.45,12,1879.0,N/A,2.6,Employed,Self-Employed,43000,Freelance Researcher,Consulting,6.0,NB,White,FALSE,1
+1056,Liu,Jose,Fall,2019,MS Statistics,1,MS,No,,No,n,,3.91,12,,N/A,,,,,,,,M,Black,n,no
+1056,Liu,Jose,Spring,2020,MS Statistics,1,MS,NO,,no,TRUE,NO,3.85,6,2125.0,N/A,0.9,Employed,Consulting,94000,Research Consultant,Consulting,9.2,M,Black,0,FALSE
+1057,Mason,Guy,Fall,2019,MS Statistics,1,MS,No,,NO,1,n,3.86,9,2081.0,N/A,,,,,,,,M,Hispanic,No,0
+1057,Mason,Guy,Spring,2020,MS Statistics,1,MS,n,,NO,no,NO,3.79,6,,N/A,,,,,,,,M,Hispanic,N,0
+1057,Mason,Guy,Fall,2020,MS Statistics,2,MS,no,,No,n,0,3.7,9,,N/A,,,,,,,,M,Hispanic,,No
+1057,Mason,Guy,Spring,2021,MS Statistics,2,MS,False,,No,no,N,3.78,12,,N/A,,,,,,,,M,Hispanic,no,n
+1057,Mason,Guy,fall,2021,MS Statistics,3,MS,N,,,no,False,3.77,9,,N/A,2.2,employed,Consulting,117000,Associate,Consulting,6.0,M,Hispanic,FALSE,NO
+1058,Gaines,Monica,Fall,2019,PhD Chemistry,1,PhD,0,,No,no,FALSE,3.65,,,Proposal,,,,,,,,M,White,0,no
+1058,Gaines,Monica,Spring,2020,PhD Chemistry,1,PhD,n,,No,True,,3.73,6,2129.0,Proposal,,,,,,,,M,White,n,NO
+1058,Gaines,Monica,Fall,2020,PHD CHEMISTRY,2,PhD,NO,,No,False,Yes,3.66,9,2188.0,Approved,,,,,,,,M,White,NO,no
+1058,Gaines,Monica,Spring,2021,PhD Chemistry,2,PhD,FALSE,,No,No,FALSE,3.74,9,,Approved,,,,,,,,M,White,NO,False
+1058,Gaines,Monica,Fall,2021,PhD Chemistry,3,PhD,N,,no,Yes,Y,3.71,6,3313.0,Writing,,,,,,,,M,White,FALSE,NO
+1059,Evans,Danielle,Fall,2019,PhD Education,1,PhD,NO,,,yes,1,2.79,12,2150.0,Proposal,,,,,,,,F,Hispanic,FALSE,FALSE
+1059,Evans,Danielle,Spring,2020,PhD Education,1,PhD,No,,No,False,Y,2.84,12,2606.0,Proposal,,,,,,,,F,Hispanic,n,0
+1059,Evans,Danielle,Fall,2020,PhD Education,2,PhD,No,,No,n,n,2.89,9,,Approved,,,,,,,,F,Hispanic,False,0
+1059,Evans,Danielle,Spring,2021,PhD Education,2,PhD,No,,NO,True,n,2.79,12,2106.0,Approved,,,,,,,,F,Hispanic,no,False
+1059,Evans,Danielle,Fall,2021,PhD Education,3,PhD,NO,,no,N,0,2.74,12,,Approved,,,,,,,,F,Hispanic,no,False
+1059,Evans,Danielle,Spring,2022,PhD Education,3,PhD,No,,No,No,True,2.84,,2511.0,Writing,,,,,,,,F,Hispanic,NO,N
+1059,Evans,Danielle,Fall,2022,PhD Education,4,PhD,N,,No,0,y,2.75,6,2911.0,Writing,,,,,,,,F,Hispanic,FALSE,NO
+1059,Evans,Danielle,Spring,2023,PhD Education,4,PhD,0,,NO,FALSE,n,2.71,12,,Writing,,,,,,,,F,Hispanic,no,NO
+1059,Evans,Danielle,Fall,2023,PhD Education,5,PhD,NO,,No,TRUE,FALSE,2.64,6,2079.0,Writing,,,,,,,,F,Hispanic,False,0
+1060,Lynch,Eric,Fall,2019,MA Counseling,1,MA,n,,No,FALSE,no,3.88,12,,N/A,,,,,,,,F,Black,NO,n
+1060,Lynch,Eric,Spring,2020,MA Counseling,1,MA,,,No,no,,3.95,6,,N/A,,,,,,,,F,Black,N,FALSE
+1060,Lynch,Eric,Fall,2020,MA Counseling,2,MA,NO,,yes,n,False,3.8,6,21164.0,N/A,,,,,,,,F,Black,No,False
+1060,Lynch,Eric,Spring,2021,MA Counseling,2,MA,N,,no,N,no,3.91,6,,N/A,,,,,,,,F,Black,,N
+1060,Lynch,Eric,Fall,2021,MA Counseling,3,MA,n,,No,N,0,3.77,12,,N/A,,,,,,,,F,Black,N,0
+1060,Lynch,Eric,Spring,2022,MA Counseling,3,MA,No,,no,No,FALSE,3.73,15,,N/A,2.7,Employed,Healthcare,53000,Psychologist,Healthcare,10.9,F,Black,no,NO
+1061,FARMER,Amber,Fall,2021,PhD Public Health,1,PhD,,,1,No,FALSE,2.84,9,,Proposal,,,,,,,,F,Asian,FALSE,n
+1061,FARMER,Amber,Spring,2022,PhD Public Health,1,PhD,0,,No,FALSE,n,2.83,,,Proposal,,,,,,,,F,Asian,N,0
+1061,FARMER,Amber,Fall,2022,PhD Public Health,2,PhD,no,,No,N,Y,2.89,12,2358.0,Proposal,,,,,,,,F,Asian,N,0
+1061,FARMER,Amber,Spring,2023,PhD Public Health,2,PhD,NO,,No,TRUE,N,2.81,12,2102.0,Approved,,,,,,,,F,Asian,NO,no
+1061,FARMER,Amber,Fall,2023,PhD Public Health,3,PhD,n,,Y,FALSE,FALSE,2.78,9,30799.0,Approved,,,,,,,,F,Asian,False,0
+1061,FARMER,Amber,Spring,2024,phd public health,3,PhD,NO,,No,,NO,2.93,6,,Approved,,,,,,,,F,Asian,no,N
+1062,Osborne,Alyssa,Fall,2021,PhD Computer Science,1,PhD,True,6645.0,YES,N,no,3.03,12,22472.0,Proposal,,,,,,,,F,Hispanic,N,FALSE
+1062,Osborne,Alyssa,Spring,2022,PhD Computer Science,1,PhD,1,6324.0,No,no,0,2.95,12,,Proposal,,,,,,,,F,Hispanic,FALSE,N
+1062,Osborne,Alyssa,FALL,2022,PhD Computer Science,2,PhD,1,5792.0,no,No,y,3.02,6,2513.0,Proposal,,,,,,,,F,Hispanic,0,NO
+1062,Osborne,Alyssa,Spring,2023,PhD Computer Science,2,PhD,yes,6840.0,NO,No,n,3.08,6,,Approved,,,,,,,,F,Hispanic,False,FALSE
+1062,Osborne,Alyssa,Fall,2023,PhD Computer Science,3,PhD,YES,6083.0,No,Y,No,3.07,6,1924.0,Approved,,,,,,,,F,Hispanic,False,no
+1062,Osborne,Alyssa,Spring,2024,PhD Computer Science,3,PhD,y,5397.0,no,no,n,2.99,12,,Approved,,,,,,,,F,Hispanic,NO,False
+1063,SMITH,Mario,Fall,2020,PhD Psychology,1,PhD,NO,,No,True,No,2.82,12,1929.0,Proposal,,,,,,,,NB,Black,no,No
+1063,SMITH,Mario,Spring,2021,PhD Psychology,1,PhD,No,,No,TRUE,N,2.77,9,2105.0,Proposal,,,,,,,,NB,Black,n,N
+1063,SMITH,Mario,Fall,2021,PhD Psychology,2,PhD,no,,no,0,yes,2.77,6,2160.0,Approved,,,,,,,,NB,Black,False,
+1063,SMITH,Mario,Spring,2022,PhD Psychology,2,PhD,NO,,no,NO,no,2.66,9,,Approved,,,,,,,,NB,Black,No,N
+1063,SMITH,Mario,Fall,2022,PhD Psychology,3,PhD,no,,,TRUE,no,2.73,6,1970.0,Writing,,,,,,,,NB,Black,NO,NO
+1063,SMITH,Mario,Spring,2023,PhD Psychology,3,PhD,False,,No,FALSE,TRUE,,12,2259.0,Writing,,,,,,,,NB,Black,NO,FALSE
+1064,Smith,Sarah,Fall,2019,MS Statistics,1,MS,0,,No,YES,FALSE,3.59,12,1674.0,N/A,,,,,,,,M,Hispanic,0,No
+1064,Smith,Sarah,Spring,2020,MS Statistics,1,MS,N,,NO,no,NO,3.58,6,,N/A,,,,,,,,M,Hispanic,0,n
+1064,Smith,Sarah,Fall,2020,MS Statistics,2,MS,n,,,FALSE,1,3.59,9,2219.0,N/A,,,,,,,,M,Hispanic,0,False
+1064,Smith,Sarah,Spring,2021,MS Statistics,2,MS,False,,NO,no,No,3.52,15,,N/A,1.8,SEEKING EMPLOYMENT,Seeking,,,,,M,Hispanic,no,False
+1065,KOCH,Marie,Fall,2019,MS Business Analytics,1,MS,True,1508.0,TRUE,False,N,3.34,12,17422.0,N/A,,,,,,,,F,Middle Eastern,NO,FALSE
+1065,KOCH,Marie,Spring,2020,MS Business Analytics,1,MS,yes,,No,N,NO,3.29,6,,N/A,,,,,,,,F,Middle Eastern,N,N
+1066,Parker,Brian,Fall,2021,MA Counseling,1,MA,FALSE,,No,YES,No,3.59,15,,N/A,,,,,,,,M,Black,0,no
+1066,Parker,Brian,Spring,2022,MA Counseling,1,MA,n,,No,N,YES,3.65,12,2121.0,N/A,,Stopped Out,,,,,,M,Black,no,N
+1067,Humphrey,Stacey,Fall,2018,PhD Chemistry,1,PhD,0,,No,no,False,2.84,12,,proposal,,,,,,,,F,White,NO,N
+1067,Humphrey,Stacey,Spring,2019,PhD Chemistry,1,PhD,NO,,No,N,No,2.88,12,,Proposal,,,,,,,,F,White,N,no
+1067,Humphrey,Stacey,Fall,2019,PhD Chemistry,2,PhD,False,,No,YES,n,2.88,6,1824.0,Approved,,,,,,,,F,White,0,N
+1067,Humphrey,Stacey,Spring,2020,PhD Chemistry,2,PhD,N,,No,1,TRUE,2.96,12,2101.0,Approved,,,,,,,,F,White,n,no
+1067,Humphrey,Stacey,Fall,2020,PhD Chemistry,3,PhD,n,,Y,False,no,2.85,6,31682.0,Writing,,,,,,,,F,White,no,FALSE
+1067,Humphrey,Stacey,Spring,2021,PhD Chemistry,3,PhD,FALSE,,No,y,y,2.98,9,2871.0,Writing,,,,,,,,F,White,,FALSE
+1068,MILLER,Todd,Fall,2020,PhD Engineering,1,PhD,n,,Y,FALSE,0,2.54,9,24202.0,Proposal,,,,,,,,F,White,NO,FALSE
+1068,MILLER,Todd,Spring,2021,PhD Engineering,1,PhD,False,,True,n,NO,2.56,9,34358.0,Proposal,,,,,,,,F,White,n,No
+1068,MILLER,Todd,Fall,2021,PhD Engineering,2,PhD,NO,,No,No,False,2.59,12,,Proposal,,,,,,,,F,White,NO,N
+1068,MILLER,Todd,Spring,2022,PhD Engineering,2,PhD,,,No,0,TRUE,2.52,12,2712.0,Approved,,,,,,,,F,White,N,0
+1068,MILLER,Todd,Fall,2022,PhD Engineering,3,PhD,n,,No,yes,No,2.57,12,2112.0,Approved,,,,,,,,F,White,N,False
+1068,MILLER,Todd,Spring,2023,PhD Engineering,3,PhD,0,,No,Y,NO,2.42,12,1837.0,Approved,,,,,,,,F,White,False,NO
+1068,MILLER,Todd,Fall,2023,PhD Engineering,4,PhD,n,,No,NO,n,2.4,9,,Approved,,,,,,,,F,White,No,No
+1068,MILLER,Todd,Spring,2024,PhD Engineering,4,PhD,n,,YES,no,no,2.39,6,25476.0,Writing,,,,,,,,F,White,No,No
+1069,Jones,Kathleen,Fall,2019,MA Counseling,1,MA,FALSE,,No,NO,N,2.46,12,,N/A,,,,,,,,F,White,N,n
+1069,Jones,Kathleen,Spring,2020,MA Counseling,1,MA,No,,No,Yes,No,2.41,12,,N/A,,,,,,,,F,White,False,FALSE
+1069,Jones,Kathleen,Fall,2020,MA Counseling,2,MA,False,,NO,no,0,2.34,12,,N/A,,,,,,,,F,White,no,NO
+1069,Jones,Kathleen,Spring,2021,MA Counseling,2,MA,No,,No,N,No,2.39,6,,N/A,,,,,,,,F,White,N,no
+1070,Cannon,David,Fall,2020,MPH,1,MPH,FALSE,,No,FALSE,no,2.91,12,,N/A,,,,,,,,F,Asian,False,n
+1070,Cannon,David,Spring,2021,MPH,1,MPH,False,,No,NO,0,2.88,9,,N/A,,,,,,,,F,Asian,No,NO
+1070,Cannon,David,FALL,2021,MPH,2,MPH,n,,No,False,1,2.89,15,2386.0,N/A,,,,,,,,F,Asian,False,False
+1070,Cannon,David,Spring,2022,MPH,2,MPH,FALSE,,No,FALSE,FALSE,2.82,12,,N/A,1.9,EMPLOYED,Government,76000,Public Health Analyst,Government,2.9,F,Asian,0,No
+1071,Alvarez,Andrea,Fall,2021,MS Statistics,1,MS,False,,No,N,False,3.99,12,,N/A,,,,,,,,M,Black,N,NO
+1071,Alvarez,Andrea,Spring,2022,MS Statistics,1,MS,no,,No,False,False,3.91,12,,N/A,,,,,,,,M,Black,N,FALSE
+1071,Alvarez,Andrea,Fall,2022,MS Statistics,2,MS,N,,NO,n,False,3.85,15,,N/A,1.4,employed,Government,85000,Research Analyst,Government,10.0,M,Black,No,0
+1072,Baker,Monique,Fall,2020,MS Computer Science,1,MS,No,,No,0,N,2.7,9,,N/A,,,,,,,,F,Black,FALSE,No
+1072,Baker,Monique,Spring,2021,MS Computer Science,1,MS,False,,true,n,0,2.7,9,20563.0,N/A,,,,,,,,F,Black,FALSE,False
+1072,Baker,Monique,Fall,2021,MS Computer Science,2,MS,FALSE,,No,N,no,2.68,6,,N/A,,,,,,,,F,Black,FALSE,0
+1072,Baker,Monique,Spring,2022,MS Computer Science,2,MS,No,,NO,YES,n,2.72,12,1514.0,N/A,,,,,,,,F,Black,,False
+1072,Baker,Monique,Fall,2022,MS Computer Science,3,MS,NO,,No,True,no,2.66,9,1855.0,N/A,,,,,,,,F,Black,n,no
+1072,Baker,Monique,Spring,2023,MS Computer Science,3,MS,0,,No,NO,N,2.8,15,,N/A,,,,,,,,F,Black,NO,False
+1072,Baker,Monique,Fall,2023,MS Computer Science,4,MS,no,,No,TRUE,0,2.79,9,1517.0,N/A,3.3,Employed,Academia,103000,Research Scientist,Higher Education,8.4,F,Black,No,N
+1073,Henderson,Jason,Fall,2020,PhD Education,1,PhD,n,,No,FALSE,N,3.84,9,,Proposal,,,,,,,,F,Asian,n,TRUE
+1073,Henderson,Jason,Spring,2021,PhD Education,1,PhD,FALSE,,No,N,yes,3.81,6,2722.0,Proposal,,,,,,,,F,Asian,n,Y
+1073,Henderson,Jason,Fall,2021,PhD Education,2,PhD,N,,No,YES,N,3.9,9,1974.0,Proposal,,,,,,,,F,Asian,No,True
+1073,Henderson,Jason,Spring,2022,PhD Education,2,PhD,False,,No,yes,0,3.86,6,1810.0,Approved,,,,,,,,F,Asian,FALSE,yes
+1073,Henderson,Jason,Fall,2022,PhD Education,3,PhD,FALSE,,No,NO,Yes,3.79,6,2564.0,Approved,,,,,,,,F,Asian,0,1
+1073,Henderson,Jason,Spring,2023,PhD Education,3,PhD,False,,No,yes,n,3.69,9,1858.0,Approved,,,,,,,,F,Asian,FALSE,TRUE
+1073,Henderson,Jason,Fall,2023,PhD Education,4,PhD,FALSE,,No,True,FALSE,3.71,6,1950.0,Approved,,,,,,,,F,Asian,no,TRUE
+1073,Henderson,Jason,Spring,2024,PhD Education,4,PhD,NO,,yes,N,N,3.7,9,31439.0,Writing,,,,,,,,F,Asian,No,True
+1074,RYAN,Jessica,Fall,2019,PhD Computer Science,1,PhD,False,,No,YES,0,3.4,9,1839.0,Proposal,,,,,,,,M,Asian,no,0
+1074,RYAN,Jessica,Spring,2020,PhD Computer Science,1,PhD,FALSE,,True,NO,N,3.43,6,24385.0,Proposal,,,,,,,,M,Asian,n,No
+1074,RYAN,Jessica,Fall,2020,PhD Computer Science,2,PhD,FALSE,,,0,Yes,3.32,9,2105.0,Approved,,,,,,,,M,Asian,n,FALSE
+1074,RYAN,Jessica,Spring,2021,PhD Computer Science,2,PhD,NO,,NO,True,No,3.34,9,2124.0,Approved,,,,,,,,M,Asian,Yes,NO
+1074,RYAN,Jessica,Fall,2021,PhD Computer Science,3,PhD,0,,NO,YES,NO,3.37,12,1802.0,Approved,,,,,,,,M,Asian,0,n
+1074,RYAN,Jessica,Spring,2022,PhD Computer Science,3,PhD,FALSE,,no,Y,NO,3.29,6,1875.0,Writing,,,,,,,,M,Asian,FALSE,N
+1074,RYAN,Jessica,Fall,2022,PhD Computer Science,4,PhD,NO,,No,FALSE,1,3.31,6,2012.0,Writing,,,,,,,,M,Asian,False,0
+1074,RYAN,Jessica,Spring,2023,PhD Computer Science,4,PhD,no,,NO,1,FALSE,3.29,6,1985.0,Writing,,,,,,,,M,Asian,no,no
+1074,RYAN,Jessica,Fall,2023,Phd computer science,5,PhD,False,,No,n,1,3.19,,2433.0,Writing,,,,,,,,M,Asian,no,N
+1074,RYAN,Jessica,Spring,2024,PhD Computer Science,5,PhD,False,,No,False,True,3.23,9,,Writing,,,,,,,,M,Asian,0,False
+1075,Harris,Larry,Fall,2020,PhD Computer Science,1,PhD,False,,No,n,Yes,3.21,12,,Proposal,,,,,,,,NB,Asian,N,NO
+1075,Harris,Larry,Spring,2021,PhD Computer Science,1,PhD,no,,No,n,Yes,3.16,6,2521.0,Proposal,,,,,,,,NB,Asian,NO,N
+1075,Harris,Larry,Fall,2021,PhD Computer Science,2,PhD,No,,NO,FALSE,True,3.26,6,2316.0,Approved,,,,,,,,NB,Asian,0,no
+1075,Harris,Larry,spring,2022,PhD Computer Science,2,PhD,No,,no,TRUE,yes,3.19,6,2048.0,Approved,,,,,,,,NB,Asian,No,0
+1075,Harris,Larry,Fall,2022,PhD Computer Science,3,PhD,False,,,n,FALSE,3.24,9,20602.0,Approved,,,,,,,,NB,Asian,FALSE,n
+1075,Harris,Larry,Spring,2023,PhD Computer Science,3,PhD,n,,NO,y,FALSE,3.3,9,1882.0,Writing,,,,,,,,NB,Asian,n,N
+1075,Harris,Larry,Fall,2023,PhD Computer Science,4,PhD,N,,No,FALSE,FALSE,3.25,6,,Writing,,,,,,,,NB,Asian,No,No
+1075,Harris,Larry,SPRING,2024,PhD Computer Science,4,PhD,N,,NO,False,Yes,3.32,6,2297.0,Writing,,,,,,,,NB,Asian,No,no
+1076,Carney,Debra,Fall,2020,MPH,1,MPH,FALSE,,No,N,n,2.74,6,,N/A,,,,,,,,M,Asian,N,n
+1076,Carney,Debra,Spring,2021,MPH,1,MPH,FALSE,,NO,FALSE,0,2.6,12,,N/A,,,,,,,,M,Asian,n,False
+1077,Kim,Zachary,Fall,2018,MS Public Policy,1,MS,NO,,No,False,False,3.98,6,,N/A,,,,,,,,M,Multiracial,no,N
+1077,Kim,Zachary,Spring,2019,MS Public Policy,1,MS,NO,,no,N,Y,3.98,6,1816.0,N/A,,,,,,,,M,Multiracial,FALSE,
+1078,Martinez,Jeffrey,Fall,2020,PhD Economics,1,PhD,,,no,n,NO,2.96,6,,Proposal,,,,,,,,NB,Black,0,No
+1078,Martinez,Jeffrey,Spring,2021,phd economics,1,PhD,NO,,yes,No,0,2.92,6,33534.0,Proposal,,,,,,,,NB,Black,No,no
+1078,Martinez,Jeffrey,Fall,2021,PhD Economics,2,PhD,NO,,,no,No,3.07,6,,Proposal,,,,,,,,NB,Black,FALSE,NO
+1078,Martinez,Jeffrey,Spring,2022,PhD Economics,2,PhD,,,No,1,n,3.0,6,1991.0,Approved,,,,,,,,NB,Black,FALSE,
+1078,Martinez,Jeffrey,Fall,2022,PhD Economics,3,PhD,NO,,No,1,no,2.99,6,1955.0,Approved,,,,,,,,NB,Black,NO,FALSE
+1078,Martinez,Jeffrey,Spring,2023,PhD Economics,3,PhD,no,,No,True,N,3.03,9,2099.0,Approved,,,,,,,,NB,Black,0,No
+1078,Martinez,Jeffrey,Fall,2023,PhD Economics,4,PhD,no,,No,False,True,3.17,6,2919.0,Writing,,,,,,,,NB,Black,0,NO
+1078,Martinez,Jeffrey,Spring,2024,PhD Economics,4,PhD,n,,no,y,FALSE,3.16,9,1911.0,Writing,,,,,,,,NB,Black,False,no
+1079,Morgan,Brianna,Fall,2019,PhD Computer Science,1,PhD,NO,,No,n,n,4.0,6,,Proposal,,,,,,,,F,White,No,NO
+1079,Morgan,Brianna,Spring,2020,PhD Computer Science,1,PhD,FALSE,,Y,n,N,4.0,,33918.0,Proposal,,,,,,,,F,White,no,n
+1079,Morgan,Brianna,Fall,2020,PhD Computer Science,2,PhD,FALSE,,No,Y,FALSE,3.95,12,1978.0,Approved,,,,,,,,F,White,,0
+1079,Morgan,Brianna,Spring,2021,PhD Computer Science,2,PhD,No,,no,FALSE,Y,,9,2251.0,Approved,,,,,,,,F,White,NO,FALSE
+1079,Morgan,Brianna,Fall,2021,PhD Computer Science,3,PhD,No,,No,y,N,4.0,9,2138.0,Writing,,,,,,,,F,White,n,FALSE
+1079,Morgan,Brianna,Spring,2022,PhD Computer Science,3,PhD,no,,yes,no,FALSE,4.0,6,23544.0,Writing,,,,,,,,F,White,False,no
+1079,Morgan,Brianna,Fall,2022,PhD Computer Science,4,PhD,No,,no,no,True,3.99,12,2574.0,Writing,,,,,,,,F,White,No,0
+1079,Morgan,Brianna,Spring,2023,PhD Computer Science,4,PhD,NO,,NO,FALSE,TRUE,4.0,12,2167.0,Writing,,,,,,,,F,White,FALSE,0
+1079,Morgan,Brianna,fall,2023,PhD Computer Science,5,PhD,NO,,No,Y,TRUE,4.0,12,2966.0,Defended,,,,,,,,F,White,0,FALSE
+1079,Morgan,Brianna,Spring,2024,PhD Computer Science,5,PhD,0,,No,YES,n,4.0,6,1824.0,Defended,4.6,Employed,Industry,141000,Economist,Tech,3.9,F,White,No,NO
+1080,Hall,Jeffrey,Fall,2019,PhD Computer Science,1,PhD,y,,No,1,no,3.69,,2170.0,Proposal,,,,,,,,F,Black,False,no
+1080,Hall,Jeffrey,Spring,2020,PhD Computer Science,1,PhD,Y,3070.0,No,y,FALSE,3.75,6,1821.0,proposal,,,,,,,,F,Black,NO,FALSE
+1080,Hall,Jeffrey,Fall,2020,PhD Computer Science,2,PhD,TRUE,2872.0,No,FALSE,Yes,3.72,12,2267.0,Approved,,,,,,,,F,Black,no,FALSE
+1080,Hall,Jeffrey,Spring,2021,PhD Computer Science,2,PhD,yes,2801.0,No,yes,no,3.69,9,1813.0,Approved,,,,,,,,F,Black,No,No
+1080,Hall,Jeffrey,Fall,2021,PhD Computer Science,3,PhD,yes,3235.0,no,n,y,3.75,9,2157.0,Writing,,,,,,,,F,Black,False,FALSE
+1080,Hall,Jeffrey,Spring,2022,PhD Computer Science,3,PhD,y,2606.0,No,YES,no,3.82,6,1860.0,Writing,,,,,,,,F,Black,0,FALSE
+1080,Hall,Jeffrey,Fall,2022,PhD Computer Science,4,PhD,YES,3399.0,no,False,TRUE,3.78,6,2658.0,Writing,,,,,,,,F,Black,no,0
+1080,Hall,Jeffrey,Spring,2023,PhD Computer Science,4,PhD,N,2838.0,No,YES,N,3.88,12,1884.0,Defended,,,,,,,,F,Black,No,n
+1080,Hall,Jeffrey,Fall,2023,PhD Computer Science,5,PhD,1,3288.0,No,1,N,3.85,12,2169.0,Defended,4.3,Employed,Consulting,146000,Consultant,Consulting,4.7,F,Black,Yes,n
+1081,Jones,Crystal,Fall,2019,MS Computer Science,1,MS,NO,,No,y,FALSE,3.52,,1643.0,N/A,,,,,,,,F,Asian,NO,Y
+1081,Jones,Crystal,Spring,2020,MS Computer Science,1,MS,No,,no,NO,NO,3.52,12,,N/A,,,,,,,,F,Asian,NO,False
+1081,Jones,Crystal,Fall,2020,MS Computer Science,2,MS,No,,NO,FALSE,0,3.52,,,N/A,1.4,Employed,Industry,174000,Engineer,Tech,5.9,F,Asian,False,
+1082,PEREZ,Rebecca,Fall,2019,PhD Chemistry,1,PhD,,,No,yes,NO,2.53,12,2190.0,Proposal,,,,,,,,M,Hispanic,YES,NO
+1082,PEREZ,Rebecca,Spring,2020,PhD Chemistry,1,PhD,NO,,y,n,NO,2.5,6,33595.0,Proposal,,,,,,,,M,Hispanic,Yes,No
+1082,PEREZ,Rebecca,Fall,2020,PhD Chemistry,2,PhD,N,,no,False,NO,2.42,9,,Approved,,,,,,,,M,Hispanic,y,N
+1082,PEREZ,Rebecca,Spring,2021,PhD Chemistry,2,PhD,no,,NO,y,NO,2.37,12,2083.0,Approved,,,,,,,,M,Hispanic,YES,No
+1082,PEREZ,Rebecca,Fall,2021,PhD Chemistry,3,PhD,n,,No,No,1,2.44,9,2144.0,Approved,,,,,,,,M,Hispanic,yes,N
+1082,PEREZ,Rebecca,Spring,2022,PhD Chemistry,3,PhD,0,,,n,n,2.33,6,,Writing,,,,,,,,M,Hispanic,1,0
+1082,PEREZ,Rebecca,Fall,2022,PhD Chemistry,4,PhD,,,No,no,y,2.26,6,2690.0,Writing,,,,,,,,M,Hispanic,Y,N
+1082,PEREZ,Rebecca,Spring,2023,PhD Chemistry,4,PhD,N,,True,No,FALSE,2.34,12,20022.0,Writing,,,,,,,,M,Hispanic,True,N
+1082,PEREZ,Rebecca,Fall,2023,PhD Chemistry,5,PhD,0,,No,YES,N,2.31,12,1964.0,Writing,,,,,,,,M,Hispanic,Y,n
+1082,PEREZ,Rebecca,Spring,2024,PhD Chemistry,5,PhD,1,,No,n,N,2.24,6,,Defended,,,,,,,,M,Hispanic,TRUE,N
+1083,Heath,Chad,Fall,2020,MS Business Analytics,1,MS,NO,,No,FALSE,no,3.43,9,,N/A,,,,,,,,F,Asian,YES,Y
+1083,Heath,Chad,Spring,2021,MS Business Analytics,1,MS,,,No,Y,0,3.42,12,1695.0,N/A,,,,,,,,F,Asian,1,YES
+1083,Heath,Chad,Fall,2021,MS Business Analytics,2,MS,FALSE,,yes,no,N,3.34,6,13607.0,N/A,1.5,EMPLOYED,Consulting,106000,Research Consultant,Consulting,1.1,F,Asian,yes,YES
+1084,Young,Elizabeth,Fall,2019,PhD Psychology,1,PhD,n,,No,True,No,3.45,9,2088.0,Proposal,,,,,,,,F,White,no,0
+1084,Young,Elizabeth,Spring,2020,PhD Psychology,1,PhD,no,,No,TRUE,Yes,3.45,9,1503.0,Proposal,,,,,,,,F,White,N,N
+1084,Young,Elizabeth,Fall,2020,PhD Psychology,2,PhD,no,,No,Yes,0,3.32,12,,Proposal,,,,,,,,F,White,No,n
+1084,Young,Elizabeth,Spring,2021,PhD Psychology,2,PhD,NO,,No,0,N,3.27,12,,Approved,,,,,,,,F,White,n,n
+1084,Young,Elizabeth,Fall,2021,PhD Psychology,3,PhD,No,,No,n,FALSE,3.35,9,,Approved,,,,,,,,F,White,False,n
+1084,Young,Elizabeth,Spring,2022,PhD Psychology,3,PhD,No,,No,Yes,False,3.29,9,1897.0,Approved,,,,,,,,F,White,n,n
+1084,Young,Elizabeth,Fall,2022,PhD Psychology,4,PhD,N,,No,Y,NO,3.25,12,1838.0,APPROVED,,,,,,,,F,White,N,False
+1084,Young,Elizabeth,Spring,2023,PhD Psychology,4,PhD,,,No,FALSE,No,3.28,12,,Writing,,,,,,,,F,White,NO,No
+1084,Young,Elizabeth,Fall,2023,PhD Psychology,5,PhD,n,,NO,No,TRUE,3.18,9,2368.0,Writing,,,,,,,,F,White,N,No
+1084,Young,Elizabeth,Spring,2024,PhD Psychology,5,PhD,False,,no,False,y,3.23,6,2934.0,Writing,,,,,,,,F,White,False,FALSE
+1085,LEWIS,David,Fall,2019,MS Public Policy,1,MS,No,,No,no,1,3.97,9,2097.0,N/A,,,,,,,,M,Asian,No,Y
+1085,LEWIS,David,Spring,2020,MS Public Policy,1,MS,no,,No,NO,1,3.92,9,2284.0,N/A,1.0,EMPLOYED,Nonprofit,53000,Program Director,Nonprofit,6.9,M,Asian,FALSE,TRUE
+1086,Walls,Ashley,Fall,2019,PhD Computer Science,1,PhD,0,,No,N,FALSE,3.65,6,,Proposal,,,,,,,,F,Asian,0,No
+1086,Walls,Ashley,Spring,2020,PhD Computer Science,1,PhD,,,No,True,no,3.74,6,,Proposal,,,,,,,,F,Asian,NO,FALSE
+1086,Walls,Ashley,Fall,2020,PhD Computer Science,2,PhD,N,,No,TRUE,NO,3.7,9,2169.0,Approved,,,,,,,,F,Asian,False,n
+1086,Walls,Ashley,SPRING,2021,PhD Computer Science,2,PhD,FALSE,,No,yes,No,3.72,9,2067.0,Approved,,,,,,,,F,Asian,N,No
+1086,Walls,Ashley,Fall,2021,PhD Computer Science,3,PhD,0,,No,yes,1,3.7,12,,Writing,,,,,,,,F,Asian,no,no
+1086,Walls,Ashley,Spring,2022,PhD Computer Science,3,PhD,n,,,1,no,3.7,6,2026.0,Writing,,,,,,,,F,Asian,N,no
+1086,Walls,Ashley,Fall,2022,PhD Computer Science,4,PhD,0,,no,no,yes,3.75,9,2000.0,Writing,,,,,,,,F,Asian,FALSE,NO
+1086,Walls,Ashley,Spring,2023,PhD Computer Science,4,PhD,no,,No,Yes,n,3.84,6,1914.0,Writing,,,,,,,,F,Asian,0,no
+1086,Walls,Ashley,fall,2023,PhD Computer Science,5,PhD,N,,No,yes,0,3.84,6,2114.0,Defended,,,,,,,,F,Asian,no,FALSE
+1086,Walls,Ashley,Spring,2024,PhD Computer Science,5,PhD,no,,NO,0,1,3.86,12,2236.0,Defended,4.8,EMPLOYED,Industry,156000,Software Engineer,Tech,1.0,F,Asian,False,
+1087,Kennedy,Kristen,Fall,2019,MS Data Science,1,MS,NO,,NO,N,n,2.78,9,,N/A,,,,,,,,M,White,0,No
+1087,Kennedy,Kristen,Spring,2020,MS Data Science,1,MS,0,,No,no,,2.93,15,,N/A,,,,,,,,M,White,FALSE,FALSE
+1087,Kennedy,Kristen,Fall,2020,MS Data Science,2,MS,FALSE,,No,No,N,2.84,9,,N/A,,,,,,,,M,White,0,NO
+1087,Kennedy,Kristen,Spring,2021,MS Data Science,2,MS,FALSE,,No,N,n,2.92,12,,N/A,,,,,,,,M,White,N,NO
+1087,Kennedy,Kristen,Fall,2021,MS Data Science,3,MS,No,,No,FALSE,FALSE,2.84,12,,N/A,2.4,Employed,Consulting,104000,Management Consultant,Consulting,10.3,M,White,n,False
+1088,AGUIRRE,James,Fall,2020,MS Computer Science,1,MS,False,,No,NO,N,2.52,6,,N/A,,,,,,,,M,Black,n,NO
+1088,AGUIRRE,James,Spring,2021,MS Computer Science,1,MS,False,,No,0,no,2.48,15,,N/A,,,,,,,,M,Black,False,FALSE
+1088,AGUIRRE,James,Fall,2021,MS Computer Science,2,MS,n,,No,False,y,,15,2179.0,n/a,,,,,,,,M,Black,NO,FALSE
+1088,AGUIRRE,James,Spring,2022,MS Computer Science,2,MS,no,,No,NO,NO,2.48,9,,N/A,,,,,,,,M,Black,n,FALSE
+1088,AGUIRRE,James,Fall,2022,MS Computer Science,3,MS,NO,,No,n,No,2.58,9,,N/A,,,,,,,,M,Black,no,NO
+1088,AGUIRRE,James,Spring,2023,MS Computer Science,3,MS,0,,,NO,0,2.44,6,,N/A,2.9,Employed,Industry,148000,Engineer,Tech,1.0,M,Black,False,no
+1089,Davis,Ryan,Fall,2018,PhD Public Health,1,PhD,NO,,No,False,N,3.06,12,,Proposal,,,,,,,,F,Asian,no,False
+1089,Davis,Ryan,Spring,2019,PhD Public Health,1,PhD,0,,NO,1,N,3.08,12,1865.0,Proposal,,,,,,,,F,Asian,no,0
+1089,Davis,Ryan,Fall,2019,PhD Public Health,2,PhD,NO,,no,0,yes,3.16,12,2464.0,Approved,,,,,,,,F,Asian,No,No
+1089,Davis,Ryan,Spring,2020,PhD Public Health,2,PhD,No,,NO,False,N,3.21,12,,APPROVED,,,,,,,,F,Asian,n,NO
+1089,Davis,Ryan,Fall,2020,PhD Public Health,3,PhD,No,,No,NO,,3.22,6,,Writing,,,,,,,,F,Asian,n,N
+1089,Davis,Ryan,Spring,2021,PhD Public Health,3,PhD,No,,No,Yes,NO,3.11,12,1883.0,Writing,,,,,,,,F,Asian,NO,NO
+1089,Davis,Ryan,Fall,2021,PhD Public Health,4,PhD,n,,No,Y,Y,3.18,12,2537.0,Writing,,,,,,,,F,Asian,n,No
+1089,Davis,Ryan,Spring,2022,PhD Public Health,4,PhD,No,,No,TRUE,N,3.18,6,2080.0,Defended,,,,,,,,F,Asian,False,0
+1089,Davis,Ryan,Fall,2022,PhD Public Health,5,PhD,No,,no,n,Yes,3.16,6,2259.0,Defended,4.4,EMPLOYED,Nonprofit,55000,Community Organizer,Nonprofit,7.4,F,Asian,NO,No
+1090,Henderson,Stuart,Fall,2020,MS Statistics,1,MS,YES,1923.0,NO,no,NO,2.92,15,,N/A,,,,,,,,M,White,TRUE,FALSE
+1090,Henderson,Stuart,Spring,2021,MS Statistics,1,MS,1,2465.0,no,no,NO,2.94,6,,n/a,,,,,,,,M,White,Yes,n
+1090,Henderson,Stuart,Fall,2021,MS Statistics,2,MS,1,1854.0,no,FALSE,0,2.96,15,,N/A,,Stopped Out,,,,,,M,White,TRUE,False
+1091,Daniel,Emily,Fall,2020,MA Counseling,1,MA,,,no,n,NO,3.9,12,,N/A,,,,,,,,M,Pacific Islander,0,0
+1091,Daniel,Emily,Spring,2021,MA Counseling,1,MA,False,,No,FALSE,0,3.86,15,,N/A,,,,,,,,M,Pacific Islander,n,0
+1091,Daniel,Emily,Fall,2021,MA Counseling,2,MA,NO,,No,no,no,3.87,,,N/A,,,,,,,,M,Pacific Islander,0,NO
+1091,Daniel,Emily,SPRING,2022,MA Counseling,2,MA,N,,No,FALSE,no,3.8,12,,N/A,,,,,,,,M,Pacific Islander,False,no
+1091,Daniel,Emily,Fall,2022,MA Counseling,3,MA,False,,1,NO,no,3.78,9,20115.0,N/A,2.5,employed,Self-Employed,54000,Independent Analyst,Consulting,4.7,M,Pacific Islander,NO,False
+1092,Joyce,Corey,Fall,2019,PhD Public Health,1,PhD,False,,NO,FALSE,,3.85,12,2362.0,Proposal,,,,,,,,F,Asian,FALSE,No
+1092,Joyce,Corey,Spring,2020,PhD Public Health,1,PhD,NO,,No,y,0,3.9,12,,proposal,,,,,,,,F,Asian,N,no
+1092,Joyce,Corey,Fall,2020,PhD Public Health,2,PhD,NO,,No,NO,No,3.94,6,,Proposal,,,,,,,,F,Asian,N,FALSE
+1092,Joyce,Corey,Spring,2021,PhD Public Health,2,PhD,NO,,NO,No,Yes,3.98,12,2693.0,Approved,,,,,,,,F,Asian,no,n
+1092,Joyce,Corey,Fall,2021,PHD PUBLIC HEALTH,3,PhD,no,,True,FALSE,NO,3.89,12,25104.0,Approved,,,,,,,,F,Asian,0,FALSE
+1092,Joyce,Corey,Spring,2022,PhD Public Health,3,PhD,,,No,N,yes,3.98,6,2100.0,Approved,,,,,,,,F,Asian,,no
+1092,Joyce,Corey,Fall,2022,PhD Public Health,4,PhD,0,,No,TRUE,True,4.0,12,,Approved,,,,,,,,F,Asian,0,False
+1092,Joyce,Corey,Spring,2023,PhD Public Health,4,PhD,No,,No,no,TRUE,3.95,6,2337.0,Writing,,,,,,,,F,Asian,no,no
+1092,Joyce,Corey,Fall,2023,PhD Public Health,5,PhD,FALSE,,No,YES,no,4.0,12,1912.0,Writing,,,,,,,,F,Asian,Yes,FALSE
+1092,Joyce,Corey,Spring,2024,PhD Public Health,5,PhD,NO,,no,No,no,3.92,12,,Writing,,,,,,,,F,Asian,n,0
+1093,Powell,Matthew,Fall,2018,MS Data Science,1,MS,NO,,No,YES,0,2.78,15,1700.0,N/A,,,,,,,,F,Hispanic,FALSE,y
+1093,Powell,Matthew,Spring,2019,MS Data Science,1,MS,No,,no,No,NO,2.77,15,,N/A,,,,,,,,F,Hispanic,N,yes
+1093,Powell,Matthew,Fall,2019,MS Data Science,2,MS,n,,NO,NO,0,2.8,6,,N/A,,,,,,,,F,Hispanic,n,Y
+1093,Powell,Matthew,Spring,2020,MS Data Science,2,MS,FALSE,,NO,,False,2.86,15,,N/A,,,,,,,,F,Hispanic,FALSE,yes
+1093,Powell,Matthew,Fall,2020,MS Data Science,3,MS,n,,No,1,N,2.92,15,1526.0,N/A,,,,,,,,F,Hispanic,N,Y
+1093,Powell,Matthew,Spring,2021,MS Data Science,3,MS,no,,no,no,No,2.86,6,,N/A,,,,,,,,F,Hispanic,No,1
+1093,Powell,Matthew,Fall,2021,MS Data Science,4,MS,no,,no,Y,n,2.89,15,1543.0,N/A,3.3,Employed,Industry,140000,Engineer,Tech,9.1,F,Hispanic,False,Yes
+1094,Hensley,John,Fall,2018,MS Data Science,1,MS,No,,No,No,NO,3.09,6,,N/A,,,,,,,,M,Asian,N,y
+1094,Hensley,John,Spring,2019,MS Data Science,1,MS,NO,,NO,NO,0,3.01,15,,N/A,,,,,,,,M,Asian,No,Yes
+1094,Hensley,John,Fall,2019,MS Data Science,2,MS,no,,NO,False,1,2.99,9,2053.0,N/A,,,,,,,,M,Asian,no,yes
+1094,Hensley,John,Spring,2020,MS Data Science,2,MS,False,,No,NO,n,3.0,9,,N/A,,,,,,,,M,Asian,False,Yes
+1094,Hensley,John,Fall,2020,MS Data Science,3,MS,False,,No,True,0,3.05,6,1620.0,N/A,,,,,,,,M,Asian,n,
+1094,Hensley,John,Spring,2021,MS Data Science,3,MS,False,,No,True,,3.02,15,1546.0,N/a,,,,,,,,M,Asian,0,YES
+1094,Hensley,John,Fall,2021,MS Data Science,4,MS,0,,No,NO,No,3.06,15,,N/A,3.2,Employed,Consulting,127000,Research Consultant,Consulting,3.7,M,Asian,N,yes
+1095,LEE,Shane,Fall,2019,PhD Education,1,PhD,FALSE,,NO,False,Y,3.62,12,2270.0,Proposal,,,,,,,,F,Asian,N,n
+1095,LEE,Shane,Spring,2020,PHD EDUCATION,1,PhD,0,,No,n,No,3.62,6,,Proposal,,,,,,,,F,Asian,False,no
+1095,LEE,Shane,Fall,2020,PhD Education,2,PhD,0,,YES,NO,NO,3.63,6,26940.0,Approved,,,,,,,,F,Asian,no,False
+1095,LEE,Shane,Spring,2021,PhD Education,2,PhD,NO,,No,1,False,3.74,12,2149.0,Approved,,,,,,,,F,Asian,no,n
+1095,LEE,Shane,Fall,2021,PhD Education,3,PhD,N,,No,No,True,3.61,9,2644.0,Writing,,,,,,,,F,Asian,No,NO
+1095,LEE,Shane,Spring,2022,PhD Education,3,PhD,False,,No,YES,False,3.69,12,2152.0,Writing,,,,,,,,F,Asian,NO,0
+1095,LEE,Shane,Fall,2022,PhD Education,4,PhD,n,,No,No,1,3.69,12,2501.0,Writing,,,,,,,,F,Asian,False,FALSE
+1095,LEE,Shane,Spring,2023,PhD Education,4,PhD,no,,NO,,False,3.68,6,1902.0,WRITING,,,,,,,,F,Asian,no,False
+1095,LEE,Shane,Fall,2023,PhD Education,5,PhD,True,,No,TRUE,no,3.78,9,2155.0,Defended,,,,,,,,F,Asian,0,0
+1095,LEE,Shane,Spring,2024,PhD Education,5,PhD,no,,No,FALSE,Yes,3.77,9,2885.0,Defended,5.0,Employed,K-12,40000,Curriculum Director,Education,7.2,F,Asian,No,no
